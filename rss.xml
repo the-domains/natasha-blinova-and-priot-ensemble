@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Natasha Blinova and Priot Ensemble]]></title>
         <description><![CDATA[Natasha Blinova and Priot Ensemble]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/priot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 21:05:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Aug 2016 21:12:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/priot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Natasha Blinova - Birth - Voicingers Contest 2016]]></title>
+            <description><![CDATA[<article><h1>Natasha Blinova - Birth - Voicingers Contest 2016</h1><p>Сольное выступление певицы Наташи Блиновой в конкурсной программе фестиваля Voicingers - один из самых ярких и самобытных моментов этого польского джазового праздника.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b50e4af59ae9bc5502c3c0ee114f2d46/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F6SvQyOUwue8%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/6SvQyOUwue8</link>
+            <guid isPermaLink="false">c6e2a46a-68e0-4b92-8eae-f9f40da70fd7</guid>
+            <pubDate>Fri, 26 Aug 2016 21:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Priot Ensemble Live 25th May 2016 at RiK]]></title>
             <description><![CDATA[<article><h1>Priot Ensemble Live 25th May 2016 at RiK</h1><p>Фото с концерта Наташи Блиновой и Priot Ensemble в зале музея Рабочий и Колхозница, сделанные прекрасным фотографом Сашей Картавой. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9259c5d395c8d60e44c398a941eba2e4f0cc857a"></article>]]></description>
