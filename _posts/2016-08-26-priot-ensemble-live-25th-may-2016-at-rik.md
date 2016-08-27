@@ -3,8 +3,8 @@ at__type: Article
 at__context: 'http://schema.org'
 isBasedOnUrl: 'https://goo.gl/photos/sWWUmcAozvn9PnjZ8'
 title: Наташа Блинова и Priot Ensemble в «Рабочем и Колхознице».
-datePublished: '2016-08-26T21:20:00.353Z'
-dateModified: '2016-08-26T21:19:46.461Z'
+datePublished: '2016-08-26T21:23:03.229Z'
+dateModified: '2016-08-26T21:22:49.077Z'
 publisher:
   name: eVr
 author: []
@@ -21,6 +21,6 @@ _type: MediaObject
 ---
 # Наташа Блинова и Priot Ensemble в «Рабочем и Колхознице».
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9259c5d395c8d60e44c398a941eba2e4f0cc857a" /><h1>Priot Ensemble Live 25th May 2016 at RiK</h1><p>31 new photos added to shared album</p></article>
+<article style=""><h1>Priot Ensemble Live 25th May 2016 at RiK</h1><p>31 new photos added to shared album</p></article>
 
 Фото с концерта Наташи Блиновой и Priot Ensemble в зале музея Рабочий и Колхозница, сделанные прекрасным фотографом Сашей Картавой.
