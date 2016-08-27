@@ -1,9 +1,10 @@
 ---
 at__type: MediaObject
 at__context: 'http://schema.org'
-title: Natasha Blinova - Birth - Voicingers Contest 2016
-datePublished: '2016-08-26T21:12:43.839Z'
-dateModified: '2016-08-26T21:12:13.314Z'
+isBasedOnUrl: 'https://youtu.be/6SvQyOUwue8'
+title: Natasha Blinova - The Birth Of The Earth I - Voicingers Contest 2016
+datePublished: '2016-08-26T21:18:35.699Z'
+dateModified: '2016-08-26T21:18:33.979Z'
 publisher: {}
 author:
   - name: Voicingers
@@ -15,8 +16,7 @@ description: >-
   Voicingers - один из самых ярких и самобытных моментов этого польского
   джазового праздника.
 via: {}
-isBasedOnUrl: 'https://youtu.be/6SvQyOUwue8'
-starred: false
+starred: true
 sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
 _type: MediaObject
 
