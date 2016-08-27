@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Natasha Blinova and Priot Ensemble]]></title>
+        <description><![CDATA[Natasha Blinova and Priot Ensemble]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Aug 2016 21:05:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Priot Ensemble Live 25th May 2016 at RiK]]></title>
+            <description><![CDATA[<article><h1>Priot Ensemble Live 25th May 2016 at RiK</h1><p>Фото с концерта Наташи Блиновой и Priot Ensemble в зале музея Рабочий и Колхозница, сделанные прекрасным фотографом Сашей Картавой. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9259c5d395c8d60e44c398a941eba2e4f0cc857a"></article>]]></description>
+            <link>https://goo.gl/photos/sWWUmcAozvn9PnjZ8</link>
+            <guid isPermaLink="false">fff08b2b-e79a-4513-9ba7-285770d5b555</guid>
+            <pubDate>Fri, 26 Aug 2016 21:05:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
