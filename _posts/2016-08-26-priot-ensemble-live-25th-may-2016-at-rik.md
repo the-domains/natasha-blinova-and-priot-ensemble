@@ -3,8 +3,8 @@ at__type: Article
 at__context: 'http://schema.org'
 isBasedOnUrl: 'https://goo.gl/photos/sWWUmcAozvn9PnjZ8'
 title: Наташа Блинова и Priot Ensemble в «Рабочем и Колхознице».
-datePublished: '2016-08-26T21:17:34.586Z'
-dateModified: '2016-08-26T21:17:18.273Z'
+datePublished: '2016-08-26T21:20:00.353Z'
+dateModified: '2016-08-26T21:19:46.461Z'
 publisher:
   name: eVr
 author: []
