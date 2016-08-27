@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.1792604346794611
+name: Natasha Blinova and Priot Ensemble
+layout_spectrum: 0.5756668603548784
+typography_spectrum: 0.17926043467946107
 color:
-  saturation: 0.5275835539161102
-  brandStrength: 0.1885806246732977
-  rhythmicContrast: 0.111066901463639
   brandColors:
     - '#450003'
     - '#5C0002'
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
+  brandStrength: 0.18858062467329773
   lightness: 0.5046299355817931
-layout_spectrum: 1
-name: Natasha Blinova and Priot Ensemble
+  saturation: 0.5275835539161102
+  rhythmicContrast: 0.11106690146363896
