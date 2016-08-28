@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.1792604346794611
 color:
   saturation: 0.5275835539161102
@@ -24,3 +12,16 @@ color:
   lightness: 0.5046299355817931
 layout_spectrum: 1
 name: Natasha Blinova and Priot Ensemble
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Natasha Blinova and Priot Ensemble
