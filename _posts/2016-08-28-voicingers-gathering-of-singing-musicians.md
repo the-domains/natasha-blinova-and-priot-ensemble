@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T16:18:09.775Z'
+datePublished: '2016-08-28T16:35:22.133Z'
 sourcePath: _posts/2016-08-28-voicingers-gathering-of-singing-musicians.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author: []
 via:
   name: Voicingers Official Site
   url: 'http://voicingers.pl/en/festival'
-dateModified: '2016-08-28T16:18:08.526Z'
+dateModified: '2016-08-28T16:35:20.661Z'
 title: Поездка в Польшу на Voicingers 2016
 publisher: {}
 description: >-
