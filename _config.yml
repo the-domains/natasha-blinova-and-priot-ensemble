@@ -16,6 +16,9 @@ navigation:
   - name: Voicingers 2016
     id: c6e2a46a-68e0-4b92-8eae-f9f40da70fd7
     type: content
+  - name: Photos
+    id: 283fc778-778b-4b1d-9adc-4c6914ebb300
+    type: content
 collections:
   - index:
       path: /
