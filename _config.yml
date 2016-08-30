@@ -12,6 +12,10 @@ color:
   lightness: 0.5046299355817931
 layout_spectrum: 1
 name: Наташа Блинова и Ансамбль Прёт
+navigation:
+  - name: Поездка в Польшу на Voicingers 2016
+    id: 79cd774f-4bfb-4bfa-afa9-fbb21639f30b
+    type: content
 collections:
   - index:
       path: /
