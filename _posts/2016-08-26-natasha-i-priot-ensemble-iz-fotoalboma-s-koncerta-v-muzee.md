@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-26T21:48:58.045Z'
-dateModified: '2016-08-26T21:48:50.419Z'
+datePublished: '2016-08-28T14:48:32.022Z'
+dateModified: '2016-08-28T14:48:30.406Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,9 +11,11 @@ description: >-
   Наташа и Priot Ensemble, из фотоальбома с концерта в музее «Рабочий и
   Колхозница».
 via: {}
-starred: false
 sourcePath: _posts/2016-08-26-natasha-i-priot-ensemble-iz-fotoalboma-s-koncerta-v-muzee.md
-_type: Blurb
+hasPage: true
+starred: false
+url: natasha-i-priot-ensemble-iz-fotoalboma-s-koncerta-v-muzee/index.html
+_type: Article
 
 ---
 Наташа и Priot Ensemble, из фотоальбома с концерта в музее «Рабочий и Колхозница».
