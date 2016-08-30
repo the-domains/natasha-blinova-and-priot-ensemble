@@ -2,8 +2,8 @@
 at__type: MediaObject
 at__context: 'http://schema.org'
 title: Natasha Blinova - The Birth Of The Earth I - Voicingers Contest 2016
-datePublished: '2016-08-28T16:29:38.035Z'
-dateModified: '2016-08-28T16:29:37.547Z'
+datePublished: '2016-08-28T16:29:43.616Z'
+dateModified: '2016-08-28T16:29:42.251Z'
 publisher: {}
 author:
   - name: Voicingers
@@ -17,7 +17,7 @@ description: >-
   джазового праздника.
 via: {}
 sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
-starred: false
+starred: true
 url: natasha-blinova-the-birth-of-the-earth-i-voicingers-cont/index.html
 _type: Article
 
