@@ -12,10 +12,6 @@ color:
   lightness: 0.5046299355817931
 layout_spectrum: 1
 name: Наташа Блинова и Ансамбль Прёт
-navigation:
-  - name: Voicingers 2016
-    id: c6e2a46a-68e0-4b92-8eae-f9f40da70fd7
-    type: content
 collections:
   - index:
       path: /
