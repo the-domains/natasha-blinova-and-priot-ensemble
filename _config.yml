@@ -11,11 +11,19 @@ color:
     - '#FF1D23'
   lightness: 0.5046299355817931
 layout_spectrum: 1
+author:
+  name: eVr
+  email: talalife@gmail.com
+  url: 'https://www.facebook.com/talalife'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f3a04b-877a-49a8-9962-a6d7f91ee145.jpg
 name: Наташа Блинова и Ансамбль Прёт
 navigation:
   - name: Поездка в Польшу на Voicingers 2016
     id: 79cd774f-4bfb-4bfa-afa9-fbb21639f30b
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
 collections:
   - index:
       path: /
