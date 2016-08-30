@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-28T14:58:45.510Z'
+datePublished: '2016-08-28T15:15:06.852Z'
+sourcePath: _posts/2016-08-28-voicingers-gathering-of-singing-musicians.md
 inFeed: true
 hasPage: true
 author: []
 via:
   name: Voicingers Official Site
   url: 'http://voicingers.pl/en/festival'
-dateModified: '2016-08-28T14:55:02.169Z'
+dateModified: '2016-08-28T15:15:05.002Z'
 title: Voicingers - Gathering of Singing Musicians
 publisher: {}
 description: >-
@@ -22,7 +23,6 @@ description: >-
   музыки сегодняшнего дня с возрастом человека, то ей сейчас четыре года. Об
   электронной музыке и её средствах мы вспомнили не случайно и ещё вернёмся к
   ним в контексте фестиваля.
-sourcePath: _posts/2016-08-28-voicingers-gathering-of-singing-musicians.md
 starred: false
 url: voicingers-gathering-of-singing-musicians/index.html
 _type: Article
