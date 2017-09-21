@@ -1,40 +1,33 @@
+name: Наташа Блинова и Ансамбль Прёт
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f3a04b-877a-49a8-9962-a6d7f91ee145.jpg
+layout_spectrum: 0.3819562
 typography_spectrum: 0.1792604346794611
 color:
-  saturation: 0.5275835539161102
-  brandStrength: 0.1885806246732977
-  rhythmicContrast: 0.111066901463639
   brandColors:
     - '#450003'
     - '#5C0002'
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
+  brandStrength: 0.1885806246732977
   lightness: 0.5046299355817931
-layout_spectrum: 1
-author:
-  name: eVr
-  email: talalife@gmail.com
-  url: 'https://www.facebook.com/talalife'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f3a04b-877a-49a8-9962-a6d7f91ee145.jpg
-name: Наташа Блинова и Ансамбль Прёт
-navigation:
-  - name: Поездка в Польшу на Voicingers 2016
-    id: 79cd774f-4bfb-4bfa-afa9-fbb21639f30b
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+  saturation: 0.5275835539161102
+  rhythmicContrast: 0.111066901463639
 title: Natasha Blinova and Priot Ensemble
 description: Jazz Future Vocal Instrumental Band
+author:
+  name: eVr
+  url: 'https://www.facebook.com/talalife'
+  email: talalife@gmail.com
+navigation:
+  - name: 'Альбом: Настоящее | Present Continuous'
+    id: 57f14cc9-82b0-41e0-bb9e-0c43df24ff96
+    type: content
+  - name: Контакты | Contact
+    id: b9fd7a51-53f0-47de-af34-79525bde8cd4
+    type: content
+content: []
+github: true
