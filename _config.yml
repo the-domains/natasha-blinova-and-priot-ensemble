@@ -29,5 +29,84 @@ navigation:
   - name: Контакты | Contact
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
     type: content
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="http://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZ7cwgbjFiEE%3Fstart%3D91%26feature%3Doembed%26start%3D91&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZ7cwgbjFiEE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZ7cwgbjFiEE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Piotr Talalay
+          url: 'https://www.youtube.com/user/talalife'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      keywords:
+        - priot
+        - priot trio
+        - ансамбль прет
+        - прёт
+        - psychedelic
+        - voice
+        - moscow
+        - dance
+        - jazz
+        - vocal
+        - blinova
+        - блинова
+      description: Live at The Worker And The Kolkhoz Woman. August 2015
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=Z7cwgbjFiEE'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=Z7cwgbjFiEE
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Z7cwgbjFiEE
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'http://youtu.be/Z7cwgbjFiEE?t=1m31s'
+      title: Priot Trio - All The Things You Are (Live)
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
