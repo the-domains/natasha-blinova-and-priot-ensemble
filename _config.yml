@@ -3,8 +3,8 @@ analytics: {}
 github: true
 description: "Наташа Блинова, Пётр Талалай и их Дуэт, Трио и Ансамбль Прёт \uD83C\uDF3C Natasha Blinova, Piotr Talalay and their Priot Duo, Priot Trio and Priot Ensemble"
 author:
-  name: eVr
-  url: 'https://www.facebook.com/talalife'
+  name: "Сайт сей изготовлен и поддерживается Талалаем с любовью в Тропарёво-Никулино \uD83D\uDD78 Made and updating by @talalife with Love in Tropariovo-Nikulino"
+  url: 'https://t.me/talalife'
   email: talalife@gmail.com
 collections:
   - index:
@@ -12,12 +12,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -32,7 +32,7 @@ content:
         - name: Piotr Talalay
           url: 'https://www.youtube.com/user/talalife'
           avatar: {}
-      datePublished: null
+      '@context': 'http://schema.org'
       keywords:
         - priot
         - priot trio
@@ -93,7 +93,7 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
