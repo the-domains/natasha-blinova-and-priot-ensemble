@@ -1,9 +1,7 @@
 name: Priot Site
 analytics: {}
 github: true
-description: >-
-  Наташа Блинова, Пётр Талалай и их Дуэт, Трио и Ансамбль Прёт | Natasha
-  Blinova, Piotr Talalay and their Priot Duo, Priot Trio and Priot Ensemble
+description: "Наташа Блинова, Пётр Талалай и их Дуэт, Трио и Ансамбль Прёт \uD83C\uDF3C Natasha Blinova, Piotr Talalay and their Priot Duo, Priot Trio and Priot Ensemble"
 author:
   name: eVr
   url: 'https://www.facebook.com/talalife'
@@ -126,4 +124,4 @@ typography_spectrum: 0.1792604346794611
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f3a04b-877a-49a8-9962-a6d7f91ee145.jpg
-title: Сайт Прёт | Priot Site
+title: "Сайт Прёт \uD83C\uDF52 Priot Site"
