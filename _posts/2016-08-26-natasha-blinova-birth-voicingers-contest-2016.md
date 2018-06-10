@@ -1,24 +1,20 @@
 ---
-datePublished: '2016-08-28T16:31:28.928Z'
-sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
-inFeed: true
-isBasedOnUrl: 'https://youtu.be/6SvQyOUwue8'
-hasPage: false
-author:
-  - name: Voicingers
-    url: 'https://www.youtube.com/user/VoicingersInfo'
-    avatar: {}
-at__type: MediaObject
-via: {}
-dateModified: '2016-08-28T16:31:27.699Z'
-title: Natasha Blinova - The Birth Of The Earth I - Voicingers Contest 2016
 publisher: {}
-at__context: 'http://schema.org'
+datePublished: '2018-06-10T20:16:26.296Z'
+dateModified: '2018-06-10T20:16:18.797Z'
 description: >-
   Сольное выступление певицы Наташи Блиновой в конкурсной программе фестиваля
   Voicingers - один из самых ярких и самобытных моментов этого польского
   джазового праздника.
-starred: true
+via: {}
+isBasedOnUrl: 'https://youtu.be/6SvQyOUwue8'
+title: Natasha Blinova - The Birth Of The Earth I - Voicingers Contest 2016
+hasPage: false
+inFeed: true
+author: []
+starred: false
+datePublishedOriginal: '2016-08-28T16:31:28.928Z'
+sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
 _type: MediaObject
 
 ---
