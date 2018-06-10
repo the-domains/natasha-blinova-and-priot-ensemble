@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-06-10T20:08:26.335Z'
-dateModified: '2018-06-10T20:08:24.669Z'
+datePublished: '2018-06-10T20:17:25.967Z'
+dateModified: '2018-06-10T20:17:23.914Z'
 description: >-
   Вас ждёт трансцедентное путешествие в мир изысканного вокального джаза с
   применением самых последних звуковых и видео- технологий .
@@ -18,8 +18,9 @@ url: natasha-blinova-i-priot-ensemble-vystupyat-v-rabochem-i-kolhoz/index.html
 _type: Article
 
 ---
-## _Афиша: 16 ноября 2016_
 ![Live](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1218d924-a05b-4d70-abf5-feb9031efe3c.jpg)
+
+## _Афиша: 16 ноября 2016_
 
 # Наташа Блинова и Priot Ensemble выступят в "Рабочем и Колхознице".
 
