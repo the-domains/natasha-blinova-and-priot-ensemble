@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-06-10T20:20:54.665Z'
+datePublished: '2018-06-12T11:19:22.495Z'
 description: >-
   Сольное выступление певицы Наташи Блиновой в конкурсной программе фестиваля
   Voicingers (Польша) - один из самых ярких и самобытных моментов этого
@@ -8,7 +8,7 @@ via: {}
 isBasedOnUrl: 'https://youtu.be/6SvQyOUwue8'
 inFeed: true
 publisher: {}
-dateModified: '2018-06-10T20:20:43.251Z'
+dateModified: '2018-06-12T11:19:21.028Z'
 sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
 title: Видео
 hasPage: false
