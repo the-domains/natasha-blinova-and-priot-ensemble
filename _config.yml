@@ -1,3 +1,16 @@
+layout_spectrum: 0.08398724576882502
+typography_spectrum: 0.16178662623453996
+color:
+  lightness: 0.3440385069113483
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  saturation: 0.22449792055947945
+  brandStrength: 0.6030396229790358
+  rhythmicContrast: 0.7010322466778504
 name: Priot Site
 analytics: {}
 github: true
@@ -104,23 +117,10 @@ navigation:
   - id: b9fd7a51-53f0-47de-af34-79525bde8cd4
     name: Контакты | Contact
     type: content
-layout_spectrum: 0.3819562
-color:
-  lightness: 0.5046299355817931
-  brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
-  saturation: 0.5275835539161102
-  brandStrength: 0.1885806246732977
-  rhythmicContrast: 0.111066901463639
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
 content_rating:
   adult: false
-typography_spectrum: 0.1792604346794611
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f3a04b-877a-49a8-9962-a6d7f91ee145.jpg
