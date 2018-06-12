@@ -1,36 +1,40 @@
+name: Priot Site
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f8af0af-bd9b-4fce-8864-d6e073abb810.jpg
 layout_spectrum: 0.08398724576882502
 typography_spectrum: 0.16178662623453996
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
-  lightness: 0.3440385069113483
   brandColors:
     - '#450003'
     - '#5C0002'
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
-  saturation: 0.22449792055947945
   brandStrength: 0.6030396229790358
+  lightness: 0.3440385069113483
+  saturation: 0.22449792055947945
   rhythmicContrast: 0.7010322466778504
-name: Priot Site
-analytics: {}
-github: true
+title: "Сайт Прёт \uD83C\uDF52 Priot Site"
 description: "Наташа Блинова, Пётр Талалай и их Дуэт, Трио и Ансамбль Прёт \uD83C\uDF3C Natasha Blinova, Piotr Talalay and their Priot Duo, Priot Trio and Priot Ensemble"
 author:
   name: "Сайт сей изготовлен и поддерживается Талалаем с любовью в Тропарёво-Никулино \uD83D\uDD78 Made and updating by @talalife with Love in Tropariovo-Nikulino"
   url: 'https://t.me/talalife'
   email: talalife@gmail.com
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+content_rating:
+  adult: false
+navigation:
+  - name: 'Альбом: Настоящее | Present Continuous'
+    id: 57f14cc9-82b0-41e0-bb9e-0c43df24ff96
+    type: content
+  - name: Контакты | Contact
+    id: b9fd7a51-53f0-47de-af34-79525bde8cd4
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -41,11 +45,9 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Piotr Talalay
-          url: 'https://www.youtube.com/user/talalife'
-          avatar: {}
+      '@type': VideoObject
       '@context': 'http://schema.org'
+      isBasedOnUrl: 'http://youtu.be/Z7cwgbjFiEE?t=1m31s'
       keywords:
         - priot
         - priot trio
@@ -59,69 +61,19 @@ content:
         - vocal
         - blinova
         - блинова
-      '@type': VideoObject
       title: Priot Trio - All The Things You Are (Live)
-      isBasedOnUrl: 'http://youtu.be/Z7cwgbjFiEE?t=1m31s'
       publisher:
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        url: 'https://www.youtube.com/'
         name: YouTube
         domain: youtu.be
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+      author:
+        - name: Piotr Talalay
+          url: 'https://www.youtube.com/user/talalife'
+          avatar: {}
+      starred: false
       description: Live at The Worker And The Kolkhoz Woman. August 2015
-      related: []
-      app_links:
-        - app_store_id: '544007664'
-          namespace: ai
-          app_name: YouTube
-          url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
-          type: ios
-        - package: com.google.android.youtube
-          app_name: YouTube
-          namespace: ai
-          url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
-          type: android
-        - url: 'https://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
-          type: web
-          namespace: ai
-        - id: '544007664'
-          namespace: twitter
-          url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
-          type: ipad
-          name: YouTube
-        - id: '544007664'
-          namespace: twitter
-          url: 'vnd.youtube://www.youtube.com/watch?v=Z7cwgbjFiEE&feature=applinks'
-          type: iphone
-          name: YouTube
-        - id: com.google.android.youtube
-          namespace: twitter
-          url: 'https://www.youtube.com/watch?v=Z7cwgbjFiEE'
-          type: googleplay
-          name: YouTube
-        - path: http/www.youtube.com/watch?v=Z7cwgbjFiEE
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=Z7cwgbjFiEE
-          package: '544007664'
-          namespace: google
-          type: ios
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - id: 57f14cc9-82b0-41e0-bb9e-0c43df24ff96
-    name: 'Альбом: Настоящее | Present Continuous'
-    type: content
-  - id: b9fd7a51-53f0-47de-af34-79525bde8cd4
-    name: Контакты | Contact
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
-content_rating:
-  adult: false
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f3a04b-877a-49a8-9962-a6d7f91ee145.jpg
-title: "Сайт Прёт \uD83C\uDF52 Priot Site"
+github: true
