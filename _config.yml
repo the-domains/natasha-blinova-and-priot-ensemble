@@ -41,6 +41,9 @@ navigation:
   - name: Фото
     id: 283fc778-778b-4b1d-9adc-4c6914ebb300
     type: content
+  - name: Видео | Video
+    id: c6e2a46a-68e0-4b92-8eae-f9f40da70fd7
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
