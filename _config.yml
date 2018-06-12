@@ -29,9 +29,6 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: 'Альбом: Настоящее | Present Continuous'
-    id: 57f14cc9-82b0-41e0-bb9e-0c43df24ff96
-    type: content
   - name: Контакты | Contacts
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
     type: content
