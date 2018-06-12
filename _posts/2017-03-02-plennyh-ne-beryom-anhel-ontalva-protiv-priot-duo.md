@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-06-12T11:19:22.491Z'
+datePublished: '2018-06-12T11:29:53.376Z'
 description: >-
   Вечером в четверг, 2 марта, в крошечном московском местечке под названием Дом
   Культуры, являющим собой магазин, фокусирующийся на альбомах российских
@@ -12,7 +12,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2018-06-12T11:19:21.028Z'
+dateModified: '2018-06-12T11:29:52.067Z'
 sourcePath: _posts/2017-03-02-plennyh-ne-beryom-anhel-ontalva-protiv-priot-duo.md
 title: 'Пленных не берём: Анхель Онталва против* Priot Duo'
 hasPage: true
