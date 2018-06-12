@@ -35,6 +35,9 @@ navigation:
   - name: Контакты | Contact
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
     type: content
+  - name: Музыка
+    id: 57f14cc9-82b0-41e0-bb9e-0c43df24ff96
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
