@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-06-12T11:19:22.493Z'
+datePublished: '2018-06-12T11:29:53.429Z'
 description: >-
   Фестиваль Voicingers лучше рассматривать (и сами организаторы называют его
   скорее так) как “Gathering” - то есть собрание, или, простым языком - тусовку,
@@ -11,7 +11,7 @@ via:
   url: 'http://voicingers.pl/en/festival'
 inFeed: true
 publisher: {}
-dateModified: '2018-06-12T11:19:21.028Z'
+dateModified: '2018-06-12T11:29:52.067Z'
 sourcePath: _posts/2016-08-28-voicingers-gathering-of-singing-musicians.md
 title: Voicingers 2016 и современная вокальная культура Европы глазами Прёт
 hasPage: true
