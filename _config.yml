@@ -38,6 +38,9 @@ navigation:
   - name: Музыка
     id: 57f14cc9-82b0-41e0-bb9e-0c43df24ff96
     type: content
+  - name: Фото
+    id: 283fc778-778b-4b1d-9adc-4c6914ebb300
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
