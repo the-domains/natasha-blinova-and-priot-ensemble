@@ -1,7 +1,7 @@
 ---
 title: Видео
-datePublished: '2018-06-12T11:38:35.302Z'
-dateModified: '2018-06-12T11:38:23.998Z'
+datePublished: '2018-06-21T21:49:18.562Z'
+dateModified: '2018-06-21T21:49:17.202Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,9 +11,9 @@ description: >-
   Voicingers (Польша) - один из самых ярких и самобытных моментов этого
   джазового праздника.
 via: {}
+sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
 starred: false
 datePublishedOriginal: '2016-08-28T16:31:28.928Z'
-sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
 url: video/index.html
 _type: Article
 
