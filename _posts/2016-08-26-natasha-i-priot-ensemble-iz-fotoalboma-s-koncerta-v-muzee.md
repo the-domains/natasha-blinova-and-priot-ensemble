@@ -1,16 +1,16 @@
 ---
 title: Фото
-datePublished: '2018-06-12T11:38:06.023Z'
-dateModified: '2018-06-12T11:38:04.233Z'
+datePublished: '2018-06-21T21:49:18.560Z'
+dateModified: '2018-06-21T21:49:17.202Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: Наташа на концерте в музее «Рабочий и Колхозница».
 via: {}
+sourcePath: _posts/2016-08-26-natasha-i-priot-ensemble-iz-fotoalboma-s-koncerta-v-muzee.md
 starred: false
 datePublishedOriginal: '2016-08-29T17:24:27.518Z'
-sourcePath: _posts/2016-08-26-natasha-i-priot-ensemble-iz-fotoalboma-s-koncerta-v-muzee.md
 url: foto/index.html
 _type: Article
 
