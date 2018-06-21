@@ -1,7 +1,7 @@
 ---
 title: 'Пленных не берём: Анхель Онталва против* Priot Duo'
-datePublished: '2018-06-12T11:44:25.309Z'
-dateModified: '2018-06-12T11:44:23.158Z'
+datePublished: '2018-06-21T21:49:18.560Z'
+dateModified: '2018-06-21T21:49:17.202Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,9 +16,9 @@ description: >-
   решать, кто из музыкантов играет, по их мнению, на светлой, а кто - на темной
   стороне Силы. Да, и не забудьте захватить из дома ваши световые мечи.
 via: {}
+sourcePath: _posts/2017-03-02-plennyh-ne-beryom-anhel-ontalva-protiv-priot-duo.md
 starred: false
 datePublishedOriginal: '2017-03-02T11:30:52.855Z'
-sourcePath: _posts/2017-03-02-plennyh-ne-beryom-anhel-ontalva-protiv-priot-duo.md
 url: plennyh-ne-beryom-anhel-ontalva-protiv-priot-duo/index.html
 _type: Article
 _context: 'http://schema.org'
