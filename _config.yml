@@ -1,5 +1,14 @@
+name: Priot Site
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f8af0af-bd9b-4fce-8864-d6e073abb810.jpg
 layout_spectrum: 0.6198899488088371
 typography_spectrum: 0.8680269939372187
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#450003'
@@ -11,15 +20,6 @@ color:
   lightness: 0.3408786749832406
   saturation: 0.22483853725190875
   rhythmicContrast: 0.7044196971420125
-name: Priot Site
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/071144d9-1def-4fe5-a751-6cd98d93b5ca.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f8af0af-bd9b-4fce-8864-d6e073abb810.jpg
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
 title: "Сайт Прёт \uD83C\uDF52 Priot Site"
 description: "Наташа Блинова, Пётр Талалай и их Дуэт, Трио и Ансамбль Прёт \uD83C\uDF3C Natasha Blinova, Piotr Talalay and their Priot Duo, Priot Trio and Priot Ensemble"
 author:
@@ -41,7 +41,7 @@ navigation:
   - name: Фото | Photos
     id: 283fc778-778b-4b1d-9adc-4c6914ebb300
     type: content
-  - name: Видео | Video
+  - name: Видео | Videos
     id: c6e2a46a-68e0-4b92-8eae-f9f40da70fd7
     type: content
 content:
