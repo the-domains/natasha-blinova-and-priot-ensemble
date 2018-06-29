@@ -1,7 +1,8 @@
 ---
 isBasedOnUrl: 'https://www.youtube.com/playlist?list=PLADF487CD7B725CA1'
 title: Priot Ensemble
-dateModified: '2018-06-29T01:12:06.800Z'
+datePublished: '2018-06-29T01:35:46.396Z'
+dateModified: '2018-06-29T01:35:38.681Z'
 publisher: {}
 author:
   - avatar:
@@ -51,7 +52,6 @@ description: >-
   инструментальное пение, вокализ, задействуя свои вокальные возможности в
   полной мере.
 via: {}
-datePublished: '2018-06-29T01:12:13.589Z'
 starred: false
 datePublishedOriginal: '2018-06-29T01:12:13.589Z'
 sourcePath: _posts/2018-06-29-priot-ensemble.md
@@ -105,13 +105,11 @@ _context: 'http://schema.org'
 
 ## Смотрите и слушайте Ансамбль Прёт | Priot Ensemble
 
-Альбом **Настоящее | Present Continuous**
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a09989cddd6bfac961232154efa38f76264817c.jpg" /><h1>Альбом "Present Continuous" (Priot Ensemble)</h1><p>Альбом · 2013 · Песен: 6. Доступно с подпиской на Apple Music. Бесплатная пробная подписка.</p></article>
 
-Джазовый альбом Blue Priot
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkNFugzAMRX8FRYLHhsLow9R02pegLHGbSAYj2xna34_SatvD3uyrc32vfM5X9hNUa46anDm2bW2qBPmW1Jm-bU0lgQkxzzdnZjLVjn8QR-CH4BFpdcYXpQX912bg4ExSXeTV2vUgVOYYkEo8BJrsnQG2b4XR7VDdv1vrl_wfiFlU7OnYDcPppQmExK7u-gDd0A3NPXK8Y-7qUaBJOcLIgF4hPiVJtI7btQlmFadcnlKRrf7vyrDQlvTXpOB_mM8sxeM-m8vZPl52-Qa163FN" height="300" style=""></iframe>
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Furl%3Dhttps%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F14397596%26auto_play%3Dfalse%26show_artwork%3Dtrue%26visual%3Dtrue%26origin%3Dtwitter&amp;src_secure=1&amp;url=https%3A%2F%2Fsoundcloud.com%2Ftalalife%2Fsets%2Fnatalia-blinova-ensemble-blue&amp;image=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000062515432-1ik63t-t500x500.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=soundcloud" width="435" height="450" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-<article style=""><img src="https://is4-ssl.mzstatic.com/image/thumb/Music2/v4/87/85/5a/87855a2c-2c3e-d4a6-add2-852b03b5f8b2/cover.jpg/1200x630bb.jpg" /><h1>Альбом "Present Continuous" (Priot Ensemble)</h1><p>Альбом · 2013 · Песен: 6. Доступно с подпиской на Apple Music. Бесплатная пробная подписка.</p></article>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkNFugzAMRX8FRYLHhsLY1Knp1C9BWeI2kQxGdjK0vy_QautD3-yrc32vfIwXtgMUc_QpGLWv61IVAeI1JKPaulaFOCbEOF6NGkkVG_5N7IHvgkWk2SibE01ofxcDO6NCSpN8aj3vhPLoHVL2O0eDXhlg_ZUZzQaV7VlrO8VXIEZJovdv7eGjO7xXjpDYlE3roOmarloz-5UzF4sCVYgeega0CfxDkkBzv5wbYExiEueHlGXp_78yTLREPZsS2D_mJ0q2uM3qdNT3n51uFJlxjA" height="300" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLADF487CD7B725CA1&amp;url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLADF487CD7B725CA1&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCm0u5IxYf_M%2Fhqdefault.jpg%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLDUxqpAnvE5ZWzXXjd_p5iMw4rUSg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="853" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
