@@ -1,8 +1,7 @@
 ---
-isBasedOnUrl: 'https://www.youtube.com/playlist?list=PLADF487CD7B725CA1'
 title: Priot Ensemble
-datePublished: '2018-06-29T01:35:46.396Z'
-dateModified: '2018-06-29T01:35:38.681Z'
+datePublished: '2018-06-29T01:40:36.871Z'
+dateModified: '2018-06-29T01:40:30.539Z'
 publisher: {}
 author:
   - avatar:
@@ -29,6 +28,7 @@ author:
           - 0
           - 0
 inFeed: true
+hasPage: true
 description: >-
   Ансамбль Прёт | Priot Ensemble — футуристический вокально-инструментальный
   пост-джазовый коллектив, в состав которого входят независимые импровизирующих
@@ -55,6 +55,7 @@ via: {}
 starred: false
 datePublishedOriginal: '2018-06-29T01:12:13.589Z'
 sourcePath: _posts/2018-06-29-priot-ensemble.md
+url: priot-ensemble/index.html
 _type: Article
 _context: 'http://schema.org'
 
