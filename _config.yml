@@ -50,6 +50,9 @@ navigation:
   - name: Видео | Videos
     id: c6e2a46a-68e0-4b92-8eae-f9f40da70fd7
     type: content
+  - name: Анхель Онтальва | Angel Ontalva
+    id: 21404520-b4eb-4d12-abe4-109897caf8fe
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
