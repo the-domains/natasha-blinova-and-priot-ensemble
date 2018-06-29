@@ -35,6 +35,9 @@ navigation:
   - name: Дуэт Прёт | Priot Duo
     id: 3b041832-969a-478b-a81d-dd9d9a99aacc
     type: content
+  - name: Ансамбль Прёт | Priot Ensemble
+    id: 4068363f-aefb-4907-b34f-2f3939b899d7
+    type: content
   - name: Анхель Онтальва | Angel Ontalva
     id: 21404520-b4eb-4d12-abe4-109897caf8fe
     type: content
