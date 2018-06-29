@@ -35,6 +35,9 @@ navigation:
   - name: Angel Ontalva VS Priot Duo
     id: f8f315f6-8588-4168-8b43-85dae1071f17
     type: content
+  - name: Трио Прёт | Priot Trio
+    id: 6472be7a-ea61-4c83-9301-bb65f1bb7e66
+    type: content
   - name: Ансамбль Прёт | Priot Ensemble
     id: 4068363f-aefb-4907-b34f-2f3939b899d7
     type: content
