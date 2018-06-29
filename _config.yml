@@ -35,6 +35,9 @@ navigation:
   - name: Дуэт Прёт | Priot Duo
     id: 3b041832-969a-478b-a81d-dd9d9a99aacc
     type: content
+  - name: Анхель Онтальва | Angel Ontalva
+    id: 21404520-b4eb-4d12-abe4-109897caf8fe
+    type: content
   - name: Контакты | Contacts
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
     type: content
@@ -46,9 +49,6 @@ navigation:
     type: content
   - name: Видео | Videos
     id: c6e2a46a-68e0-4b92-8eae-f9f40da70fd7
-    type: content
-  - name: Анхель Онтальва | Angel Ontalva
-    id: 21404520-b4eb-4d12-abe4-109897caf8fe
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
