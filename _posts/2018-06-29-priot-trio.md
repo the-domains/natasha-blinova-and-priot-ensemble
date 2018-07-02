@@ -1,7 +1,7 @@
 ---
 title: Трио Прёт | Priot Trio
-datePublished: '2018-07-02T20:12:17.709Z'
-dateModified: '2018-07-02T20:12:15.160Z'
+datePublished: '2018-07-02T23:51:44.759Z'
+dateModified: '2018-07-02T23:51:41.531Z'
 publisher: {}
 author:
   - name: 'Фото: Giada Project / Пётр Талалай'
@@ -26,9 +26,11 @@ _context: 'http://schema.org'
 
 _(Из пресс-релиза Дуэта Прёт | Priot Duo)_ Оставаясь сторонниками малых составов, дуэт редко, но довольно постоянно выступает с саксофонистом _Юрием Севастьяновым _под названием _Трио Прёт | Priot Trio._
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/426b1823e26c9672aab53ed08f083231/croprotate.jpg?cropheight=1695&amp;cropwidth=2560&amp;degrees=0&amp;input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F75757a38-c509-4d43-b229-004706ce72f0.jpg&amp;x=0&amp;y=0" /><p>Фото: Станислав Поспелов</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a2e9ae59534b6aaf4bac05a6b11937a0eb86ee8.jpg" /><p>Фото: Станислав Поспелов</p></article>
 
 Программа этого состава как правило более экспериментальная и состоит из взвеси фри-джаза, мобильной электроники и вокальных линий, каждый раз подчиняясь определённой концепции, предлагаемой _Талалаем_. По сути, это очень похоже на то, что они делают в дуэте; участие _Севастьянова_, одного из признанных приверженцев традиционного джаза, носителя этого языка, добавляет живую джазовую эмоцию в музыку трио.
+
+---
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9562d1b4-e069-4a3e-a3fc-ec759ecf2b6a.jpg" /><h1>Блинова, Талалай и Севастьянов</h1><p>в составе Живые люди | Live People Ensemble Натальи Скворцовой (слева).</p></article>
 
