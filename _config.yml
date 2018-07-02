@@ -44,6 +44,9 @@ navigation:
   - name: Анхель Онтальва | Angel Ontalva
     id: 21404520-b4eb-4d12-abe4-109897caf8fe
     type: content
+  - name: Пётр Талалай | Piotr Talalay
+    id: c0fbbd1e-c657-40d7-a71e-337b772a72cb
+    type: content
   - name: Контакты | Contacts
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
     type: content
