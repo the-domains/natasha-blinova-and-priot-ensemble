@@ -1,17 +1,17 @@
 ---
 title: Piotr Talalay
-datePublished: '2018-07-02T21:12:06.836Z'
-dateModified: '2018-07-02T21:12:02.745Z'
+datePublished: '2018-07-02T21:45:36.583Z'
+dateModified: '2018-07-02T21:44:58.584Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: >-
   Барабанщик и продюсер Пётр Талалай – выпускник Российской Академии Музыки им.
   Гнесиных, класс профессора Ковалевского М.И. До этого учился в Государственном
   Музыкальном Колледже Эстрадно-Джазового Искусства у педагогов Стотланда И.Б,
   Ковалевского М.И и Мелёхина В.П.
 via: {}
-hasPage: true
 starred: false
 datePublishedOriginal: '2018-07-02T18:16:50.034Z'
 sourcePath: _posts/2018-07-02-piotr-talalay.md
@@ -53,14 +53,14 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/703655b4-1146-4751-916b-ae31c7c96ef8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7185159-f83c-431a-836c-927d8d1b9a93.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f8b17b1-bee0-4458-88c7-b529bc602888.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e828a5268ee87539cff5bc0cdca84d19/croprotate.jpg?cropheight=3358&cropwidth=2332&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5a097da6-d3df-417d-ac42-2c9090d961ca.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb258a299b18bc41a1b9bdbf72751e39af275039.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f597285a-5d97-4c99-86e8-3ed6f5f1bce8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ca6ede4-bc57-45e4-a994-d95fda25de23.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aa4a0ff-2a48-4667-9326-ca94841d417d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5ab3c55-cca1-4a1d-a904-4228340da7e8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c04592-b1b6-4e51-97bb-7d900da41293.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0295f84-bfe7-4818-b487-20254382f351.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cf7e307a64aeb547691caa11975cb629/croprotate.jpg?cropheight=3173&cropwidth=2256&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0097b70c-755f-4e23-b3b1-c167459da606.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c63f3c8541709aa14a6fc1ff319d8a0ac8f9b27.jpg)
 
 ## Дискография
 
@@ -159,24 +159,38 @@ _context: 'http://schema.org'
 
 ## Смотрите и слушайте Петра Талалая:
 
-[Живые люди в клубе А.Козлова на презентации альбома Движение][15]  
+[Живые люди в клубе А.Козлова на презентации альбома Движение][15]
+
 [Одиссей и Талалай "Mice Blues"][16]  
 [Плейлист "Музыка с Талалаем" на Youtube][17]
 
-**Ссылки:**  
-[Пётр Талалай во ВКонтакте][18]  
-[Пётр Талалай в Twitter][19]  
-[Пётр Талалай в Google+][20]  
-[Пётр Талалай в Facebook][21]  
-[Ансамбль прёт ][22]  
-[Живые люди][23]  
-[Московский Квартет Violinjazz][24]  
-[Трио Одиссея][25]  
-[Goat.s Notes][26]  
-[Лампа Ladino][27]  
-[Dzierzynski Bitz][28]  
-[Дуэт А.Наджаров - П.Талалай][29]  
-[Фотоальбом лучших фото в Google+][30]
+## Талалай в интернете
+
+[ВКонтакте][18]
+
+[Twitter
+][19]  
+[Google+][20]
+
+[Facebook
+][21]  
+[Ансамбль Прёт | Priot Ensemble][22]
+
+[Живые люди | Live People
+][23]  
+[Московский Violinjazz Квартет
+][24]  
+[Трио Одиссея][25]
+
+[Goat'S NoteS][26]
+
+[Лампа Ladino
+][27]  
+[Dzierzynski Bitz
+][28]  
+[Дуэт А.Наджаров --- П.Талалай, Euphoria (А.Наджаров)][29]
+
+[Фотографии, на которых изображён Талалай, в Google+][30]
 
 [0]: http://jazzcoll.ru/ "ГМКЭДИ"
 [1]: http://igorstotland.com/ "Игорь Стотланд"
@@ -201,7 +215,7 @@ _context: 'http://schema.org'
 [20]: https://plus.google.com/114239285265459594526/about
 [21]: http://facebook.com/talalife
 [22]: http://priot.ru/
-[23]: http://livepeopleband.ru/
+[23]: http://fancymusic.ru/category/arists/livepeople/ "Live People at Fancymusic"
 [24]: http://violinjazz.ru/
 [25]: http://bogusevich.ru/ru/new_trio.html
 [26]: http://goatsnotes.com/
