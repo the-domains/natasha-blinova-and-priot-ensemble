@@ -1,7 +1,7 @@
 ---
 title: Piotr Talalay
-datePublished: '2018-07-02T22:13:27.477Z'
-dateModified: '2018-07-02T22:13:24.931Z'
+datePublished: '2018-07-02T22:15:46.937Z'
+dateModified: '2018-07-02T22:13:37.377Z'
 publisher: {}
 author: []
 inFeed: true
