@@ -1,7 +1,7 @@
 ---
-title: Piotr Talalay
-datePublished: '2018-07-02T22:15:46.937Z'
-dateModified: '2018-07-02T22:13:37.377Z'
+title: Пётр Талалай | Piotr Talalay
+datePublished: '2018-07-02T22:35:53.893Z'
+dateModified: '2018-07-02T22:35:50.427Z'
 publisher: {}
 author: []
 inFeed: true
@@ -20,7 +20,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# Piotr Talalay
+# Пётр Талалай | Piotr Talalay
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f9c05f4-9fd3-4ceb-af4a-68e2b9327734.jpg" /><h1>Пётр Талалай</h1><p>Фото: Андрей Танзю</p></article>
 
