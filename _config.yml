@@ -59,6 +59,9 @@ navigation:
   - name: Видео | Videos
     id: c6e2a46a-68e0-4b92-8eae-f9f40da70fd7
     type: content
+  - name: Наташа Блинова | Natasha Blinova
+    id: 0cbfaf5d-09d3-4b29-961a-44191f0fa7f7
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
