@@ -1,7 +1,7 @@
 ---
 title: Piotr Talalay
-datePublished: '2018-07-02T22:06:57.144Z'
-dateModified: '2018-07-02T22:06:45.641Z'
+datePublished: '2018-07-02T22:13:27.477Z'
+dateModified: '2018-07-02T22:13:24.931Z'
 publisher: {}
 author: []
 inFeed: true
@@ -165,7 +165,7 @@ _context: 'http://schema.org'
 **Музыка против террора** (Санкт-Петербург, БКЗ Октябрьский), в составе _Seven Eight Band_
 
 **Усадьба.Джаз **(Москва, Архангельское), в составе _Seven Eight Band_
-![Фото: Алёна Премудрофф](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccf111cb-a89b-4f45-8f97-f36671706956.jpg)
+![Фото: Алёна Премудрофф](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9303b0f8-7663-41e7-b05f-1dccaa279883.jpg)
 
 ## Смотрите и слушайте Петра Талалая:
 
@@ -178,25 +178,25 @@ _context: 'http://schema.org'
 
 [ВКонтакте][18]
 
-[Twitter ][19]
+[Twitter][19]
 
 [Google+][20]
 
-[Facebook ][21]
+[Facebook][21]
 
 [Ансамбль Прёт | Priot Ensemble][22]
 
-[Живые люди | Live People ][23]
+[Живые люди | Live People][23]
 
-[Московский Violinjazz Квартет ][24]
+[Московский Violinjazz Квартет][24]
 
 [Трио Одиссея][25]
 
 [Goat'S NoteS][26]
 
-[Лампа Ladino ][27]
+[Лампа Ladino][27]
 
-[Dzierzynski Bitz ][28]
+[Dzierzynski Bitz][28]
 
 [Дуэт А.Наджаров --- П.Талалай, Euphoria (А.Наджаров)][29]
 
