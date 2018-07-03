@@ -1,7 +1,7 @@
 ---
 title: Ансамбль Прёт | Priot Ensemble
-datePublished: '2018-07-03T17:14:19.669Z'
-dateModified: '2018-07-03T17:14:10.169Z'
+datePublished: '2018-07-03T17:19:35.255Z'
+dateModified: '2018-07-03T17:19:32.219Z'
 publisher: {}
 author:
   - name: 'Фото: Александра Картавая'
@@ -17,9 +17,9 @@ description: >-
   близок к современному европейскому джазу — в его основе живое, динамичное
   сплетение стилей.
 via: {}
+sourcePath: _posts/2018-06-29-priot-ensemble.md
 starred: false
 datePublishedOriginal: '2018-06-29T01:12:13.589Z'
-sourcePath: _posts/2018-06-29-priot-ensemble.md
 url: priot-ensemble/index.html
 _type: Article
 _context: 'http://schema.org'
