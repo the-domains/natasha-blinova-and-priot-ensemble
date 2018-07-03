@@ -1,7 +1,7 @@
 ---
 title: Пётр Талалай | Piotr Talalay
-datePublished: '2018-07-03T16:31:36.300Z'
-dateModified: '2018-07-03T16:31:32.572Z'
+datePublished: '2018-07-03T16:59:05.805Z'
+dateModified: '2018-07-03T16:58:56.880Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,9 +12,9 @@ description: >-
   Музыкальном Колледже Эстрадно-Джазового Искусства у педагогов Стотланда И.Б,
   Ковалевского М.И и Мелёхина В.П.
 via: {}
-sourcePath: _posts/2018-07-02-piotr-talalay.md
 starred: false
 datePublishedOriginal: '2018-07-02T18:16:50.034Z'
+sourcePath: _posts/2018-07-02-piotr-talalay.md
 url: piotr-talalay/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -69,6 +69,8 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c04592-b1b6-4e51-97bb-7d900da41293.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0295f84-bfe7-4818-b487-20254382f351.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c63f3c8541709aa14a6fc1ff319d8a0ac8f9b27.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f652cdcc-0820-4364-a1b5-ff8c083b0ea1.jpg)
+![О Seven Eight Band и других победителях Russian World Music Awards](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff8fbfde-9feb-4b7c-a3d3-546b46aa3f3f.jpg)
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2acf361f-8ae4-4fef-9fb6-ebf9ad2a697e.jpg" /><h1>Пётр Талалай - победитель Independent Music Awards 2018</h1><p>в составе Goat'S NoteS в категории Eclectic</p></article>
 
@@ -109,7 +111,7 @@ _context: 'http://schema.org'
 33. _Alexey Kruglov & Krugly Band --- Altissimo_ (Art Service, ART- 327, 2016)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f11f4d-2381-4dc3-a13f-b1338b193689.jpg)
 
-## Фестивали и конкурсы:
+## Фестивали, конкурсы, награды:
 
 Лауреат **Всероссийского Конкурса Джазовых Исполнителей** в Ростове-На-Дону (1 место) (2000)
 
@@ -158,11 +160,15 @@ _context: 'http://schema.org'
 
 **Международные дни джаза в Архангельске**, в составе _Ángel Ontalva VS Priot Duo_
 
+Ансамбль **Seven Eight Band **получает награду _Лучший этнический проект на _[церемонии вручения ][15]_[Russian World Music Awards][15]._
+
 **2018**
 
 Фестиваль **Диверсии в Чекасина** МДСТ Дом (2017, 2018)
 
 **Московский культурный форум** (ЦВС Манеж), в составе _Tinto Brass Band_
+
+Альбом _Cosmic Circus_ ансамбля **Goat'S NoteS **[побеждает в категории ][16]_[Eclectic album ][16]_[на вручении всемирной премии ][16]_[Independent Music Awards.][16]_
 
 **Музыка против террора** (Санкт-Петербург, БКЗ Октябрьский), в составе _Seven Eight Band_
 
@@ -171,38 +177,38 @@ _context: 'http://schema.org'
 
 ## Смотрите и слушайте Петра Талалая:
 
-[Живые люди в клубе А.Козлова на презентации альбома Движение][15]
+[Живые люди в клубе А.Козлова на презентации альбома Движение][17]
 
-[Одиссей и Талалай "Mice Blues"][16]  
-[Плейлист "Музыка с Талалаем" на Youtube][17]
+[Одиссей и Талалай "Mice Blues"][18]  
+[Плейлист "Музыка с Талалаем" на Youtube][19]
 
 ## Талалай в интернете
 
-[ВКонтакте][18]
+[ВКонтакте][20]
 
-[Twitter][19]
+[Twitter][21]
 
-[Google+][20]
+[Google+][22]
 
-[Facebook][21]
+[Facebook][23]
 
-[Ансамбль Прёт | Priot Ensemble][22]
+[Ансамбль Прёт | Priot Ensemble][24]
 
-[Живые люди | Live People][23]
+[Живые люди | Live People][25]
 
-[Московский Violinjazz Квартет][24]
+[Московский Violinjazz Квартет][26]
 
-[Трио Одиссея][25]
+[Трио Одиссея][27]
 
-[Goat'S NoteS][26]
+[Goat'S NoteS][28]
 
-[Лампа Ladino][27]
+[Лампа Ladino][29]
 
-[Dzierzynski Bitz][28]
+[Dzierzynski Bitz][30]
 
-[Дуэт А.Наджаров --- П.Талалай, Euphoria (А.Наджаров)][29]
+[Дуэт А.Наджаров --- П.Талалай, Euphoria (А.Наджаров)][31]
 
-[Фотографии, на которых изображён Талалай, в Google+][30]
+[Фотографии, на которых изображён Талалай, в Google+][32]
 
 [0]: http://jazzcoll.ru/ "ГМКЭДИ"
 [1]: http://igorstotland.com/ "Игорь Стотланд"
@@ -219,19 +225,21 @@ _context: 'http://schema.org'
 [12]: http://fancymusic.ru/kruglov-nadzharov-shushkov-talalay-1607/ "1607"
 [13]: https://itun.es/ru/s_JS_ "Татьяна Зыкина - За закрытыми окнами на iTunes"
 [14]: https://itunes.apple.com/ru/album/mistakes/1022188650?l=en "Dima Ustinov - Mistakes on Apple Music"
-[15]: http://youtu.be/_XDw_Sc7wuw
-[16]: http://youtu.be/3A0J5LuhzJ8
-[17]: http://www.youtube.com/playlist?list=PL5C7DD0C1A6DB29E2
-[18]: http://vk.com/priot
-[19]: http://twitter.com/talalife
-[20]: https://plus.google.com/114239285265459594526/about
-[21]: http://facebook.com/talalife
-[22]: http://priot.ru/
-[23]: http://fancymusic.ru/category/arists/livepeople/ "Live People at Fancymusic"
-[24]: http://violinjazz.ru/
-[25]: http://bogusevich.ru/ru/new_trio.html
-[26]: http://goatsnotes.com/
-[27]: http://lampaladino.ru/
-[28]: http://www.novytwist.com/
-[29]: https://soundcloud.com/nadzharov/a-nadzharov-p-talalay-euphoria
-[30]: https://plus.google.com/photos/114239285265459594526/albums/5854572253131008145?authkey=CPLA8ZLb6tXIkgE
+[15]: http://www.worldmusicawards.ru/rwma2017 "Seven Eight Band на Russian World Music Awards"
+[16]: http://independentmusicawards.com/16th-independent-music-awards-winners/ "Goat'S NoteS - Cosmic Circus at Independent Music Awards 16"
+[17]: http://youtu.be/_XDw_Sc7wuw
+[18]: http://youtu.be/3A0J5LuhzJ8
+[19]: http://www.youtube.com/playlist?list=PL5C7DD0C1A6DB29E2
+[20]: http://vk.com/priot
+[21]: http://twitter.com/talalife
+[22]: https://plus.google.com/114239285265459594526/about
+[23]: http://facebook.com/talalife
+[24]: http://priot.ru/
+[25]: http://fancymusic.ru/category/arists/livepeople/ "Live People at Fancymusic"
+[26]: http://violinjazz.ru/
+[27]: http://bogusevich.ru/ru/new_trio.html
+[28]: http://goatsnotes.com/
+[29]: http://lampaladino.ru/
+[30]: http://www.novytwist.com/
+[31]: https://soundcloud.com/nadzharov/a-nadzharov-p-talalay-euphoria
+[32]: https://plus.google.com/photos/114239285265459594526/albums/5854572253131008145?authkey=CPLA8ZLb6tXIkgE
