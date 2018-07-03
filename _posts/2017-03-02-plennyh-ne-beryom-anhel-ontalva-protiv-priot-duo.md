@@ -1,7 +1,7 @@
 ---
 title: 'Пленных не берём: Анхель Онтальва против* Priot Duo'
-datePublished: '2018-06-28T20:36:14.593Z'
-dateModified: '2018-06-28T20:36:11.421Z'
+datePublished: '2018-07-03T16:30:34.994Z'
+dateModified: '2018-07-03T16:30:31.657Z'
 publisher: {}
 author: []
 inFeed: true
