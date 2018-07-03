@@ -1,7 +1,7 @@
 ---
 title: Наташа Блинова | Natasha Blinova
-datePublished: '2018-07-03T17:16:53.872Z'
-dateModified: '2018-07-03T17:16:22.172Z'
+datePublished: '2018-07-03T17:20:37.917Z'
+dateModified: '2018-07-03T17:20:34.112Z'
 publisher: {}
 author: []
 inFeed: true
@@ -17,9 +17,9 @@ description: >-
   году альбоме Настоящее (англоязычный вариант названия - Present Continuous) на
   лейбле FANCYMUSIC
 via: {}
+sourcePath: _posts/2018-07-02-natasha-blinova.md
 starred: false
 datePublishedOriginal: '2018-07-02T22:35:15.513Z'
-sourcePath: _posts/2018-07-02-natasha-blinova.md
 url: natasha-blinova/index.html
 _type: Article
 _context: 'http://schema.org'
