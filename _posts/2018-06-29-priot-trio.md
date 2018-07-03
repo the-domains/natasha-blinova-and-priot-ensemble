@@ -1,7 +1,7 @@
 ---
 title: Трио Прёт | Priot Trio
-datePublished: '2018-07-03T17:12:17.619Z'
-dateModified: '2018-07-03T17:11:50.279Z'
+datePublished: '2018-07-03T17:20:03.534Z'
+dateModified: '2018-07-03T17:20:02.528Z'
 publisher: {}
 author:
   - name: 'Фото: Giada Project / Пётр Талалай'
@@ -13,9 +13,9 @@ description: >-
   составов, дуэт редко, но довольно постоянно выступает с саксофонистом Юрием
   Севастьяновым под названием Трио Прёт | Priot Trio.
 via: {}
+sourcePath: _posts/2018-06-29-priot-trio.md
 starred: false
 datePublishedOriginal: '2018-06-29T03:31:27.113Z'
-sourcePath: _posts/2018-06-29-priot-trio.md
 url: priot-trio/index.html
 _type: Article
 _context: 'http://schema.org'
