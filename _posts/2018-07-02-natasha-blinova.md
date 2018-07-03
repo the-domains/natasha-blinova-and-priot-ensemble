@@ -1,7 +1,7 @@
 ---
 title: Наташа Блинова | Natasha Blinova
-datePublished: '2018-07-03T15:47:01.024Z'
-dateModified: '2018-07-03T15:46:56.150Z'
+datePublished: '2018-07-03T16:30:34.989Z'
+dateModified: '2018-07-03T16:30:31.657Z'
 publisher: {}
 author: []
 inFeed: true
@@ -17,9 +17,9 @@ description: >-
   году альбоме Настоящее (англоязычный вариант названия - Present Continuous) на
   лейбле FANCYMUSIC
 via: {}
+sourcePath: _posts/2018-07-02-natasha-blinova.md
 starred: false
 datePublishedOriginal: '2018-07-02T22:35:15.513Z'
-sourcePath: _posts/2018-07-02-natasha-blinova.md
 url: natasha-blinova/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -198,6 +198,7 @@ _I Don't Know How to Love Him_ из рок-оперы _Иисус Христос
 [Facebook][10]
 
 [Ансамбль Прёт | Priot Ensemble][11]
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/db9bf0d8f9b5ad062e78519b0a371762/croprotate.jpg?cropheight=2530&cropwidth=3781&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff654ef64-604b-4ffc-9a36-e61e3392b388.jpg&x=0&y=0)
 
 [0]: http://fancymusic.ru/priot-ensemble-present-continuous "Ансамбль Прёт | Priot Ensemble - Настоящее | Present Continuous"
 [1]: https://www.evernote.com/shard/s1/nl/20174/2480233d-3abe-4b05-9e86-46f969e56560/
