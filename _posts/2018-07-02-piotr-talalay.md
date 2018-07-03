@@ -1,7 +1,7 @@
 ---
 title: Пётр Талалай | Piotr Talalay
-datePublished: '2018-07-02T22:35:53.893Z'
-dateModified: '2018-07-02T22:35:50.427Z'
+datePublished: '2018-07-03T15:10:32.529Z'
+dateModified: '2018-07-03T15:10:14.065Z'
 publisher: {}
 author: []
 inFeed: true
@@ -69,6 +69,8 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c04592-b1b6-4e51-97bb-7d900da41293.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0295f84-bfe7-4818-b487-20254382f351.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c63f3c8541709aa14a6fc1ff319d8a0ac8f9b27.jpg)
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2acf361f-8ae4-4fef-9fb6-ebf9ad2a697e.jpg" /><h1>Пётр Талалай - победитель Independent Music Awards 2018</h1><p>в составе Goat'S NoteS в категории Eclectic</p></article>
 
 ## Дискография
 
