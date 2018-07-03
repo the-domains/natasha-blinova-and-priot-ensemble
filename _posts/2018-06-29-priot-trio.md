@@ -1,7 +1,7 @@
 ---
 title: Трио Прёт | Priot Trio
-datePublished: '2018-07-03T16:31:12.048Z'
-dateModified: '2018-07-03T16:31:08.638Z'
+datePublished: '2018-07-03T16:31:36.248Z'
+dateModified: '2018-07-03T16:31:32.572Z'
 publisher: {}
 author:
   - name: 'Фото: Giada Project / Пётр Талалай'
