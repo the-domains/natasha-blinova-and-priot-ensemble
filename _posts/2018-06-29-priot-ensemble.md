@@ -1,7 +1,7 @@
 ---
 title: Ансамбль Прёт | Priot Ensemble
-datePublished: '2018-07-03T16:31:12.052Z'
-dateModified: '2018-07-03T16:31:08.638Z'
+datePublished: '2018-07-03T16:31:36.289Z'
+dateModified: '2018-07-03T16:31:32.572Z'
 publisher: {}
 author:
   - name: 'Фото: Александра Картавая'
