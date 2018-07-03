@@ -1,7 +1,7 @@
 ---
 title: Наташа Блинова | Natasha Blinova
-datePublished: '2018-07-03T11:45:34.198Z'
-dateModified: '2018-07-03T11:45:32.268Z'
+datePublished: '2018-07-03T13:39:29.685Z'
+dateModified: '2018-07-03T13:39:19.415Z'
 publisher: {}
 author: []
 inFeed: true
@@ -39,17 +39,9 @@ _context: 'http://schema.org'
 
 **Видео**
 
-[https://youtu.be/HNCPeyFnsJE][2] - _Легенда_, специально приглашённый артист - _Норайр Барсегян _(дудук)
-
-[https://youtu.be/Cm0u5IxYf\_M][3]
+- 
 
 _Колыбельная Медведицы_ из м/ф _Умка_
-
-[Бабочка 3][4]
-
-[Tomorrow][5]
-
-[I Don't Know How to Love Him][6]
 
 Начав музыкальную деятельность в Пензе, где она стала лауреатом нескольких молодёжных конкурсов и фестивалей, **Наташа** продолжила музыкальную карьеру в Москве, поступив в _ГМКЭДИ_ сразу на третий курс. В 2001 году она успешно поступает в _РАМ им. Гнесиных_ в класс преподавателя _Ротаря В.И_, и заканчивает академию в 2005\. Здесь она занимается студийной и концертной работой, исследует новые музыкальные территории, занимается преподаванием.
 
@@ -59,27 +51,25 @@ _Колыбельная Медведицы_ из м/ф _Умка_
 
 Коллектив певицы _Priot Ensemble | Ансамбль Прёт_ можно [услышать на вышедшем в 2013 году альбоме ][0]_[Настоящее][0]_[(англоязычный вариант названия - ][0]_[Present Continuous][0]_[) на лейбле FANCYMUSIC][0]
 
-Ещё один альбом --- _Blue Priot_, полностью состоящий из известных джазовых и блюзовых композиций и звучащий достаточно камерно, вы [можете услышать на Саундклауде музыкантов][7].
+Ещё один альбом --- _Blue Priot_, полностью состоящий из известных джазовых и блюзовых композиций и звучащий достаточно камерно, вы [можете услышать на Саундклауде музыкантов][2].
 
 Ансамбль выступал на двух фестивалях новой музыки _Персона нон-гранта_ в МДСТ Дом, на фестивале _Музэнерго_, является обладателем звания лауреата (1-е место) на 1-м конкурсе молодых исполнителей _Усадьба.Джаз_. (2008 г.). Треки Ансамбля используются в промо-роликах
 
-[музыкального фестиваля Музэ][8]нерго
+[музыкального фестиваля Музэ][3]нерго
 
 и создателей развивающих настольных игр
 
-[Mosaicum][9]
+[Mosaicum][4]
 
 .
 
-Наталья окончила Российскую Академию Музыки имени Гнесиных в 2005 году по специальности вокал, класс преподавателя В. И. Ротаря; являлась стипендиантом фондов «Новые Имена»; «Фонд Спивакова», членом Московского Джазового Ангажемента.
+**Блинова** окончила Российскую Академию Музыки имени Гнесиных в 2005 году по специальности вокал, класс преподавателя В. И. Ротаря; являлась стипендиантом фондов «Новые Имена»; «Фонд Спивакова», членом Московского Джазового Ангажемента.
 
-Наталья также занимается частной педагогической практикой. Среди её учеников - музыкант Андрей Бабинов (Кузнецов), известный по этноэлектронному проекту _[Часть речи][10]_, певицы Анна Филянова, Юлия Кораблёва, Карина Харенберг, Нина Матвеенко, Елизавета Акулина, Полина Акулина, Чернаковы ---Ваня и Миша, и др.
+**Наташа **также занимается частной педагогической практикой. Среди её учеников - музыкант _Андрей Бабинов (Кузнецов)_, известный по этноэлектронному проекту _[Часть речи][5]_, _Анна Филянова_, _Юлия Кораблёва, Карина Харенберг, Нина Матвеенко_ (её [отзыв в Фейсбуке о работе Наташи вы можете прочитать здесь][6]), а так же подрастающее поколение --- _Елизавета Акулина, Полина Акулина, Чернаковы --- Ваня и Миша_, и другие.
 
-> See posts, photos and more on Facebook.
+**Наташа****Блинова** замужем, воспитывает двоих детей.
 
-**Наташа** замужем, воспитывает двоих детей.
-
-## онкурсы
+## Конкурсы
 
 _**1996**_ Лауреат первой степени Областного конкурса-смотра юных эстрадно-джазовых исполнителей г. Пенза.
 
@@ -115,7 +105,7 @@ _**2005**_ Фестиваль новой импровизационной муз
 
 _**2005**_ Фестиваль - конкурс _До-Дж_ в г. Донецьк (Украина)
 
-_**2007**_ Фестиваль, посвящённый 10-летию портала [Jazz.ru][11], в составе ансамбля _Маримба Плюс_
+_**2007**_ Фестиваль, посвящённый 10-летию портала [Jazz.ru][7], в составе ансамбля _Маримба Плюс_
 
 _В составе **Секстета Алексея Чернакова**:_
 
@@ -129,7 +119,7 @@ _**2006 **Дни джаза в Архангельске_
 
 _**2006 **Смоленский Проект_
 
-_**2006**_ 9-летие портала _[Jazz.ru][11]_
+_**2006**_ 9-летие портала _[Jazz.ru][7]_
 
 _В составе **Ансамбля Прёт** :_
 
@@ -171,7 +161,7 @@ _**2017** Международные дни джаза в Архангельск
 
 **Живые Люди | Live People Ensemble **--- _Движение_ | The Movement (Fancymusic, 2013)
 
-Веб-релизы лейбла co.p.riot доступны на сайте [http://priot.ru][12]
+Веб-релизы лейбла co.p.riot доступны на сайте [http://priot.ru][8]
 
 ## Ученики и педагогические достижения
 
@@ -183,28 +173,39 @@ _**2017** Международные дни джаза в Архангельск
 
 ## Смотрите и слушайте Наташу Блинову
 
+_Легенда_, специально приглашённый артист - _Норайр Барсегян _(дудук)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHNCPeyFnsJE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHNCPeyFnsJE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHNCPeyFnsJE%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCm0u5IxYf_M%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCm0u5IxYf_M&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCm0u5IxYf_M%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="http://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FrlaMjr8gN2k%3Fstart%3D6315%26feature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrlaMjr8gN2k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrlaMjr8gN2k%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="http://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fldivr02VetE%3Fstart%3D1105%26feature%3Doembed%26start%3D1105&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dldivr02VetE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fldivr02VetE%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="http://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fldivr02VetE%3Fstart%3D2071%26feature%3Doembed%26start%3D2071&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dldivr02VetE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fldivr02VetE%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+[][9]
+
 ## Наташа Блинова в Интернете
 
-[ВКонтакте][13]
+[ВКонтакте][10]
 
-[Facebook][14]
+[Facebook][11]
 
-[Ансамбль Прёт][12]
+[Ансамбль Прёт][8]
 
 **Фото**
 
 [0]: http://fancymusic.ru/priot-ensemble-present-continuous "Ансамбль Прёт | Priot Ensemble - Настоящее | Present Continuous"
 [1]: https://www.evernote.com/shard/s1/nl/20174/2480233d-3abe-4b05-9e86-46f969e56560/
-[2]: https://youtu.be/HNCPeyFnsJE
-[3]: https://youtu.be/Cm0u5IxYf_M
-[4]: http://youtu.be/rlaMjr8gN2k?t=1h45m15s
-[5]: http://youtu.be/ldivr02VetE?t=18m25s
-[6]: http://youtu.be/ldivr02VetE?t=34m31s
-[7]: https://soundcloud.com/talalife/sets/natalia-blinova-ensemble-blue "Natasha Blinova & Priot Ensemble - Blue Priot"
-[8]: http://youtu.be/PaTHL24DZt0
-[9]: http://youtu.be/xQT2CA5HoU8
-[10]: http://partofspeech.ru/ "Части речи"
-[11]: http://jazz.ru/
-[12]: http://priot.ru/
-[13]: http://vk.com/priot1
-[14]: http://facebook.com/jazzvoices
+[2]: https://soundcloud.com/talalife/sets/natalia-blinova-ensemble-blue "Natasha Blinova & Priot Ensemble - Blue Priot"
+[3]: http://youtu.be/PaTHL24DZt0
+[4]: http://youtu.be/xQT2CA5HoU8
+[5]: http://partofspeech.ru/ "Части речи"
+[6]: https://facebook.com/story.php?story_fbid=10211896585637694&id=1462870721 "Нина Матвеенко о Наташе Блиновой"
+[7]: http://jazz.ru/
+[8]: http://priot.ru/
+[9]: https://youtu.be/HNCPeyFnsJE
+[10]: http://vk.com/priot1
+[11]: http://facebook.com/jazzvoices
