@@ -1,7 +1,7 @@
 ---
 title: Наташа Блинова | Natasha Blinova
-datePublished: '2018-07-02T21:23:57.461Z'
-dateModified: '2018-07-02T21:23:49.392Z'
+datePublished: '2018-07-03T16:31:12.049Z'
+dateModified: '2018-07-03T16:31:08.638Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,9 +11,9 @@ description: >-
   Voicingers (Польша) - один из самых ярких и самобытных моментов этого
   джазового праздника.
 via: {}
+sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
 starred: false
 datePublishedOriginal: '2016-08-28T16:31:28.928Z'
-sourcePath: _posts/2016-08-26-natasha-blinova-birth-voicingers-contest-2016.md
 url: video/index.html
 _type: Article
 
