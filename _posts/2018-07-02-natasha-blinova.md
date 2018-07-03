@@ -1,7 +1,7 @@
 ---
 title: Наташа Блинова | Natasha Blinova
-datePublished: '2018-07-03T14:57:24.964Z'
-dateModified: '2018-07-03T14:57:12.681Z'
+datePublished: '2018-07-03T15:47:01.024Z'
+dateModified: '2018-07-03T15:46:56.150Z'
 publisher: {}
 author: []
 inFeed: true
@@ -33,7 +33,7 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6aead373-c9c1-4f1d-b9f3-d8a7a94a35c3.jpg)
 
 В нескольких параллельных коллективах, объединённых общим названием _Priot_, она экспериментирует с форматом дуэта и трио, смело используя электронные инструменты, крупную форму, импровизацию и безграничные возможности человеческого голоса.
-![artwork by @talalife](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fcaad80-e7ba-4dde-bec0-478e2943cc1b.gif)
+![Фото: Пётр Талалай](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7ae5982-2fcc-475c-be77-be3134fcc402.jpg)
 
 В 2017 году основная деятельность **Наташи** проходила на московской сцене концептуальной импровизации: участие в международном трио _Ángel Ontalva VS Priot Duo_ и мини-гастроли по России (Москва, Архангельск, Санкт-Петербург), участие в _Радио Восток, _перформансах иркутского музыканта _Игоря Титенко, _выступлениев составе французского гитариста _Алена Блесина (Alain Blesing)._
 ![Фото: Нина Ай-Артян](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71520dfa-4217-4093-83a4-a6cb291008ff.jpg)
