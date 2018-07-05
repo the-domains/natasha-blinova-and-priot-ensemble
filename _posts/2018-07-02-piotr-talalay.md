@@ -1,7 +1,7 @@
 ---
 title: Пётр Талалай | Piotr Talalay
-datePublished: '2018-07-03T17:22:10.902Z'
-dateModified: '2018-07-03T17:22:05.340Z'
+datePublished: '2018-07-05T23:10:44.106Z'
+dateModified: '2018-07-05T23:10:40.314Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,9 +12,9 @@ description: >-
   Музыкальном Колледже Эстрадно-Джазового Искусства у педагогов Стотланда И.Б,
   Ковалевского М.И и Мелёхина В.П.
 via: {}
-sourcePath: _posts/2018-07-02-piotr-talalay.md
 starred: false
 datePublishedOriginal: '2018-07-02T18:16:50.034Z'
+sourcePath: _posts/2018-07-02-piotr-talalay.md
 url: piotr-talalay/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -34,7 +34,7 @@ _context: 'http://schema.org'
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/227ff2c0-54de-4d7f-9af4-179be08dffb0.jpg" /><p>Фото: Нина Ай-Артян</p></article>
 
-Вместе с певицей, композитором и пианисткой Наташей Блиновой Пётр является соинициатором создания Дуэта Прёт (Priot Duo), Трио Прёт (Priot Trio) и Ансамбля Прёт (Priot Ensemble). Ансамбль выступал на двух фестивалях новой музыки Персона нон-гранта, на нескольких фестивалях Музэнерго, является обладателем звания лауреата (1-е место) на 1-м конкурсе молодых исполнителей Усадьба. Джаз (2008). Треки Ансамбля Прёт| Priot Ensemble используются в промо-роликах музыкального фестиваля Музэнерго и создателей развивающих настольных игр Mosaicum. В данный момент музыканты Ансамбля, возможно, заняты работой над новым альбомом для лейбла Art Beat.
+Вместе с певицей, композитором и пианисткой Наташей Блиновой Пётр является соинициатором создания [Дуэта Прёт (Priot Duo)][2], [Трио Прёт (Priot Trio)][3] и [Ансамбля Прёт (Priot Ensemble)][4]. Ансамбль выступал на двух фестивалях новой музыки Персона нон-гранта, на нескольких фестивалях Музэнерго, является обладателем звания лауреата (1-е место) на 1-м конкурсе молодых исполнителей Усадьба. Джаз (2008). Треки Ансамбля Прёт| Priot Ensemble используются в промо-роликах музыкального фестиваля Музэнерго и создателей развивающих настольных игр Mosaicum. В данный момент музыканты Ансамбля, возможно, заняты работой над новым альбомом для лейбла Art Beat.
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af08eb70-3c75-40be-839d-e723d4108336.jpg" /><h1>Пётр Талалай</h1><p>Фото: ZernoDerevo</p></article>
 
@@ -48,7 +48,7 @@ _context: 'http://schema.org'
 В составе группы _Алексея Чернакова _**Талалай** принимал участие в создании литературно-музыкальной композиции _А вам не хотиться ль под ручку пройтиться?_ в театре _Современник_.
 ![в Trane Zen Art](https://s3-us-west-2.amazonaws.com/the-grid-img/p/988c2ce71afc87d4dead25182262d344e4a4da8a.jpg)
 
-**Пётр Талалай **известен активным сотрудничеством в качестве концертного и сессионного барабанщика со многими известными российскими музыкантами, среди которых _Владимир Чекасин, Одиссей Богусевич и **его Каштаны**, **Трио Одиссея | Odyssey Trio**, **Одиссей и Талалай**, Алекс Ростоцкий и **Джаз Бас Театр**, Герман Лукьянов, Мераб Гагнидзе, Юрий Маркин, Игорь Бутман, Давид Голощёкин, Александр Осейчук, братья Бриль, Леонид Сендерский, Алексей Беккер, Евгений Лебедев, Алексей Чернаков, Евгений Сивцов, Алексей Иванников, Андрей Кондаков, Ирина Томаева, Юрий Парфёнов, DJ Женя, Наташа Блинова, Алексей Круглов, Игорь Иванушкин, Антон Румянцев, Сергей Васильев, Сергей Хутас, Евгений Борец, Анна Бутурлина, Андрей Дудченко, Дмитрий Мосьпан, Денис Швытов, Вагиф Садыков, Виталий Головнёв, Антон Ревнюк, Павел Чекмаковский, Яков Окунь, группа **Земляничная Поляна**, Тина Кузнецова, Стас Колобанов, Валерий Коротков, Анна Королёва, Алексей Наджаров, Юрий Рубин и ансамбли **Silk Percussion** и **Algambra**, Алик Дробинский и группа **Drobinska**, Александра Самсонова, Николай Моисеенко, Денис Шушков, Александр Папий, Олег Остапчук, Лев Слепнер и **Маримба Плюс**, Марк Гайдар, Григорий Сандомирский и **Ансамбль Средиземноморской Деконструкции | Mediterranean Deconstruction Ensemble**, Николай Медведев, Дарья Чернакова, Евгений Иваненко, Мария Логофет, Светлана Свирина и **Лампа Ladino**, Алексей Андреев, Дмитрий Игнатов, Илья Вилков, Андрей Бессонов и **Move Red Objects**, Олег Добротин, Антон Сафронов и **Anton Safronov Band**, Рустам Байбиков, Антон Боев, Анжелика Фролова и **Angeliquie & The Band**, Владимир Капырин, Александр Куракин, Игорь Надеждин, Роман Соколов, Степан Ерицян, Николай Сидоренко, Дмитрий Братухин, Сергей Головня, Валентин Лакодин, Сергей Баулин, Пётр Востоков и **Большой Джазовый Оркестр**, Анатолий Осипов, Пётр Дольский, Екатерина Воробьёва, Николай Сарабьянов, Илья Зырянов и **Dubstern**, Вадим Донау, Анастасия Токарева и гр. **Настя Тока**, Юрий Галкин и его **Нонет Юрия Галкина**, Сергей Летов, Александр "Фагот" Александров, Вадим Правилов, Андрей Аминов, Роберт Анчиполовский, группа **Kuca Mala**, Игорь Яковенко, Алина Ростоцкая, Максим Шибин, Асет Самраилова, Ди Диковски, Владимир Голоухов и гр. **Первое Солнце**, Анатолий Осипов, Дмитрий Устинов a.k.a **Taras 3000**, Денис Любовинкин и Анна Иванцова, Михаил Дубовик, Евгений Маслобоев, Анастасия Маслобоева, Олег Маряхин, Тим Дорофеев, Ярослав Курило, Николай Клишин, Константин Седовин, Аркадий ФриМен (Кириченко), Алла Рид, Антон Силаев и **BlockBASSter**, Станислав Поспелов и гр. **Дальний свет**, Наталья Скворцова и **Живые люди | Live People,** и многие другие._
+**Пётр Талалай **известен активным сотрудничеством в качестве концертного и сессионного барабанщика со многими известными российскими музыкантами, среди которых _Владимир Чекасин, Одиссей Богусевич и **его Каштаны**, **Трио Одиссея | Odyssey Trio**, **Одиссей и Талалай**, Алекс Ростоцкий и **Джаз Бас Театр**, Герман Лукьянов, Мераб Гагнидзе, Юрий Маркин, Игорь Бутман, Давид Голощёкин, Александр Осейчук, братья Бриль, Леонид Сендерский, Алексей Беккер, Евгений Лебедев, Алексей Чернаков, Евгений Сивцов, Алексей Иванников, Андрей Кондаков, Ирина Томаева, Юрий Парфёнов, DJ Женя, Наташа Блинова, Алексей Круглов, Игорь Иванушкин, Антон Румянцев, Сергей Васильев, Сергей Хутас, Евгений Борец, Анна Бутурлина, Андрей Дудченко, Дмитрий Мосьпан, Денис Швытов, Вагиф Садыков, Виталий Головнёв, Антон Ревнюк, Павел Чекмаковский, Яков Окунь, группа **Земляничная Поляна**, Тина Кузнецова, Стас Колобанов, Валерий Коротков, Анна Королёва, Алексей Наджаров, Юрий Рубин и ансамбли **Silk Percussion** и **Algambra**, Алик Дробинский и группа **Drobinska**, Александра Самсонова, Николай Моисеенко, Денис Шушков, Александр Папий, Олег Остапчук, Лев Слепнер и **Маримба Плюс**, Марк Гайдар, Григорий Сандомирский и **Ансамбль Средиземноморской Деконструкции | Mediterranean Deconstruction Ensemble**, Николай Медведев, Дарья Чернакова, Евгений Иваненко, Мария Логофет, Светлана Свирина и **Лампа Ladino**, Алексей Андреев, Дмитрий Игнатов, Илья Вилков, Андрей Бессонов и **Move Red Objects**, Олег Добротин, Антон Сафронов и **Anton Safronov Band**, Рустам Байбиков, Антон Боев, Анжелика Фролова и **Angeliquie & The Band**, Владимир Капырин, Александр Куракин, Игорь Надеждин, Роман Соколов, Степан Ерицян, Николай Сидоренко, Дмитрий Братухин, Сергей Головня, Валентин Лакодин и Cigar Hall, Михаил Жижин, Сергей Баулин, Пётр Востоков и **Большой Джазовый Оркестр**, Анатолий Осипов, Пётр Дольский, Екатерина Воробьёва, Николай Сарабьянов, Илья Зырянов и **Dubstern**, Вадим Донау, Анастасия Токарева и гр. **Настя Тока**, Юрий Галкин и его **Нонет Юрия Галкина**, Сергей Летов, Александр "Фагот" Александров, Вадим Правилов, Андрей Аминов, Роберт Анчиполовский, группа **Kuca Mala**, Игорь Яковенко, Алина Ростоцкая, Максим Шибин, Асет Самраилова, Ди Диковски, Владимир Голоухов и гр. **Первое Солнце**, Анатолий Осипов, Дмитрий Устинов a.k.a **Taras 3000**, Денис Любовинкин и Анна Иванцова, Михаил Дубовик, Евгений Маслобоев, Анастасия Маслобоева, Олег Маряхин, Тим Дорофеев, Ярослав Курило, Николай Клишин, Константин Седовин, Аркадий ФриМен (Кириченко), Алла Рид, Антон Силаев и **BlockBASSter**, Станислав Поспелов и гр. **Дальний свет**, Наталья Скворцова и **Живые люди | Live People,** и многие другие._
 ![Фото: Галина Рябоконь](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b860374-1fa7-4d9c-9f82-4c99ab828215.jpg)
 
 Из иностранных артистов **Талалай** выступал с _Владимиром Большаковым, Уолтером Смитом (Walter Smith III), неоднократным лауреатом премии Grammy Полом Уинтером (Paul Winter), Джерри Бергонзи (Jerry Bergonzi), Димитрием Грехи Эспинозой (Dimitri Grechi Espinoza), Мачеем Кочински (Maciej Kocinski), Эйалом Маозом (Eyal Maoz), Питером Байтсом (Peter Beets), Эми Бэнкс (Amy Banks), Джулиет Келли (Juliet Kelly), Джеки Джонс (Jackie Jones), Паулетт Макуильямс (Paulette McWilliams), Винсентом Милью (Vincent Millioud), Робертом Анчиполовским, Югом Вансаном (Hugues Vincent), Янником Барманом (Yannick Barman), Анхелем Онтальва (Ángel Ontalva), Мисирли Ахметом (Misirli Ahmet), Аленом Блесином (Alain Blesing)._
@@ -83,7 +83,7 @@ _context: 'http://schema.org'
 4. _Алексей Круглов_ --- _Люблю_ (жанр поэзия/джаз) (Артель _Восточный Ветер_, 2004)
 5. _Евгений Сивцов --- Два дня_ (2004)
 6. _Евгений Сивцов --- Путь к совершенству_ (2005)
-7. _Дуэт Прёт | Priot Duo --- Пиктограммы | Icons_ (2005) (web release @ [www.priot.ru][2])
+7. _Дуэт Прёт | Priot Duo --- Пиктограммы | Icons_ (2005) (web release @ [www.priot.ru][5])
 8. _Алексей Чернаков_ --- _Трилогия. Часть Первая_ (CD 0706 SPL) (2006)
 9. Московский Violin Jazz Квартет «Маленьким девочкам нельзя» (Itaka 006) (2007)
 10. _Живые Люди --- Летнее время _(2007)
@@ -92,23 +92,23 @@ _context: 'http://schema.org'
 13. _Одиссей & Талалай --- Вечер в стиле Хаммонд_ (2007)
 14. _Drum Circle Vol.1: Silk Percussion_ (2008)
 15. DVD _Творческая встреча с Одиссеем и Талалаем_ (2007)
-16. _Наташа Блинова и Ансамбль Прёт | Natasha Blinova & Priot Ensemble --- Blue Priot_ (2008) (web release @ [www.priot.ru)][2]
-17. _Ансамбль Прёт | Priot Ensemble --- Настоящее | Present Continuous_ (Co.P.Riot 130, 2011; [переиздание FANCYMUSIC FANCY020 (2013)][3]
+16. _Наташа Блинова и Ансамбль Прёт | Natasha Blinova & Priot Ensemble --- Blue Priot_ (2008) (web release @ [www.priot.ru)][5]
+17. _Ансамбль Прёт | Priot Ensemble --- Настоящее | Present Continuous_ (Co.P.Riot 130, 2011; [переиздание FANCYMUSIC FANCY020 (2013)][6]
 18. _Московский Violinjazz Квартет --- Город_ 2CD (2010)
 19. _Лампа Ladino --- En Este Mundo_ (Sketis Music, 2011)
 20. _Dzierzynski Bitz --- Sex w ZSSR _(EP) (2011)
-21. _Dzierzynski Bitz --- I II III_ (2012) [http://dzierzynskibitz.livejournal.com/][4]
+21. _Dzierzynski Bitz --- I II III_ (2012) [http://dzierzynskibitz.livejournal.com/][7]
 22. _Олег Добротин --- Озорная девчонка_ (Арт-Сервис, ART-243) (2012)
 23. _Сергей Хутас --- Москва... Небо_ (ArtBeat Music, AB-CD-09-2012-026, 2012)
-24. [Живые Люди | Live People Quartet --- Движение | The Movement (FANCYMUSIC, FANCY009, 2013)][5]
-25. Goat's Notes --- Fuzzy Wonder (Leo Records, CD LR 661, 2013), [переиздание FANCYMUSIC FANCY012 (2013)][6]
-26. _Andrey Bessonov --- The Remove_ (2013) (web release @ [http://andrey-bessonov.com][7] and [http://andrey-bessonov.ru][8] )
-27. [Живые люди | Live People Ensemble --- Новые города | The New Cities (FANCYMUSIC, FANCY032, 2013)][9]
+24. [Живые Люди | Live People Quartet --- Движение | The Movement (FANCYMUSIC, FANCY009, 2013)][8]
+25. Goat's Notes --- Fuzzy Wonder (Leo Records, CD LR 661, 2013), [переиздание FANCYMUSIC FANCY012 (2013)][9]
+26. _Andrey Bessonov --- The Remove_ (2013) (web release @ [http://andrey-bessonov.com][10] and [http://andrey-bessonov.ru][11] )
+27. [Живые люди | Live People Ensemble --- Новые города | The New Cities (FANCYMUSIC, FANCY032, 2013)][12]
 28. _Трио Одиссея | Odyssey Trio --- Pictures_ (ArtBeat Music AB-CD-06-2014-067, 2014)
-29. [Круглов, Наджаров, Шушков, Талалай | Kruglov, Nadzharov, Shushkov, Talalay --- 1607 (FANCYMUSIC, FANCY055)][10]
+29. [Круглов, Наджаров, Шушков, Талалай | Kruglov, Nadzharov, Shushkov, Talalay --- 1607 (FANCYMUSIC, FANCY055)][13]
 30. _Block\[bass\]ter_ (single) (Magic Fruits, MFR 002, 2015)
-31. _[Татьяна Зыкина ---За закрытыми окнами][11]_[(трек ][11]_[Сто лет][11]_[) (Татьяна Зыкина, 2015)][11]
-32. _[Dima Ustinov --- Mistakes][12]_[(track ][12]_[Preaching Richard][12]_[) (Xameleon, 2016)][12]
+31. _[Татьяна Зыкина ---За закрытыми окнами][14]_[(трек ][14]_[Сто лет][14]_[) (Татьяна Зыкина, 2015)][14]
+32. _[Dima Ustinov --- Mistakes][15]_[(track ][15]_[Preaching Richard][15]_[) (Xameleon, 2016)][15]
 33. _Alexey Kruglov & Krugly Band --- Altissimo_ (Art Service, ART- 327, 2016)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f11f4d-2381-4dc3-a13f-b1338b193689.jpg)
 
@@ -161,7 +161,7 @@ _context: 'http://schema.org'
 
 **Международные дни джаза в Архангельске**, в составе _Ángel Ontalva VS Priot Duo_
 
-Ансамбль **Seven Eight Band **получает награду _Лучший этнический проект на _[церемонии вручения ][13]_[Russian World Music Awards][13]._
+Ансамбль **Seven Eight Band **получает награду _Лучший этнический проект на _[церемонии вручения ][16]_[Russian World Music Awards][16]._
 
 **2018**
 
@@ -169,7 +169,7 @@ _context: 'http://schema.org'
 
 **Московский культурный форум** (ЦВС Манеж), в составе _Tinto Brass Band_
 
-Альбом _Cosmic Circus_ ансамбля **Goat'S NoteS **[побеждает в категории ][14]_[Eclectic album ][14]_[на вручении всемирной премии ][14]_[Independent Music Awards.][14]_
+Альбом _Cosmic Circus_ ансамбля **Goat'S NoteS **[побеждает в категории ][17]_[Eclectic album ][17]_[на вручении всемирной премии ][17]_[Independent Music Awards.][17]_
 
 **Музыка против террора** (Санкт-Петербург, БКЗ Октябрьский), в составе _Seven Eight Band_
 
@@ -178,67 +178,71 @@ _context: 'http://schema.org'
 
 ## Смотрите и слушайте Петра Талалая:
 
-[Живые люди в клубе А.Козлова на презентации альбома Движение][15]
+_[Живые люди | Live People][18]_[в ][18]_[клубе А.Козлова][18]_[на презентации альбома ][18]_[Движение | The Movement][18]_
 
-[Одиссей и Талалай "Mice Blues"][16]  
-[Плейлист "Музыка с Талалаем" на Youtube][17]
+[Одиссей и Талалай ][19]_[Mice Blues][19]_
+
+[Плейлист ][20]_[Музыка с Талалаем][20]_[на Youtube][20]
 
 ## Талалай в интернете
 
-[ВКонтакте][18]
+[ВКонтакте][21]
 
-[Twitter][19]
+[Twitter][22]
 
-[Google+][20]
+[Google+][23]
 
-[Facebook][21]
+[Facebook][24]
 
-[Ансамбль Прёт | Priot Ensemble][22]
+[Ансамбль Прёт | Priot Ensemble][25]
 
-[Живые люди | Live People][23]
+[Живые люди | Live People][26]
 
-[Московский Violinjazz Квартет][24]
+[Московский Violinjazz Квартет][27]
 
-[Трио Одиссея][25]
+[Трио Одиссея][28]
 
-[Goat'S NoteS][26]
+[Goat'S NoteS][29]
 
-[Лампа Ladino][27]
+[Лампа Ladino][30]
 
-[Dzierzynski Bitz][28]
+[Dzierzynski Bitz][31]
 
-[Дуэт А.Наджаров --- П.Талалай, Euphoria (А.Наджаров)][29]
+[Дуэт А.Наджаров --- П.Талалай, Euphoria (А.Наджаров)][32]
 
-[Фотографии, на которых изображён Талалай, в Google+][30]
+[Фотографии, на которых изображён Талалай, в Google+][33]
 
 [0]: http://jazzcoll.ru/ "ГМКЭДИ"
 [1]: http://igorstotland.com/ "Игорь Стотланд"
-[2]: http://www.priot.ru/
-[3]: http://fancymusic.ru/artists/priot-ensemble/ "Ансамбль Прёт | Priot Ensemble - Настоящее | Present Continuous"
-[4]: http://dzierzynskibitz.livejournal.com/
-[5]: http://fancymusic.ru/zhivie-lyudi-dvizhenie/ "Live People Ensemble - The Movement"
-[6]: http://fancymusic.ru/goats-notes-fuzzy-wonder/ "Goat'S NoteS - Fuzzy Wonder"
-[7]: http://andrey-bessonov.com/
-[8]: http://andrey-bessonov.ru/
-[9]: http://fancymusic.ru/live-people-quartet-the-new-cities/ "Live People Quartet - The New Cities"
-[10]: http://fancymusic.ru/kruglov-nadzharov-shushkov-talalay-1607/ "1607"
-[11]: https://itun.es/ru/s_JS_ "Татьяна Зыкина - За закрытыми окнами на iTunes"
-[12]: https://itunes.apple.com/ru/album/mistakes/1022188650?l=en "Dima Ustinov - Mistakes on Apple Music"
-[13]: http://www.worldmusicawards.ru/rwma2017 "Seven Eight Band на Russian World Music Awards"
-[14]: http://independentmusicawards.com/16th-independent-music-awards-winners/ "Goat'S NoteS - Cosmic Circus at Independent Music Awards 16"
-[15]: http://youtu.be/_XDw_Sc7wuw
-[16]: http://youtu.be/3A0J5LuhzJ8
-[17]: http://www.youtube.com/playlist?list=PL5C7DD0C1A6DB29E2
-[18]: http://vk.com/priot
-[19]: http://twitter.com/talalife
-[20]: https://plus.google.com/114239285265459594526/about
-[21]: http://facebook.com/talalife
-[22]: http://priot.ru/
-[23]: http://fancymusic.ru/category/arists/livepeople/ "Live People at Fancymusic"
-[24]: http://violinjazz.ru/
-[25]: http://bogusevich.ru/ru/new_trio.html
-[26]: http://goatsnotes.com/
-[27]: http://lampaladino.ru/
-[28]: http://www.novytwist.com/
-[29]: https://soundcloud.com/nadzharov/a-nadzharov-p-talalay-euphoria
-[30]: https://plus.google.com/photos/114239285265459594526/albums/5854572253131008145?authkey=CPLA8ZLb6tXIkgE
+[2]: https://priot.ru/priot-duo "Дуэт Прёт | Priot Duo"
+[3]: https://priot.ru/priot-trio "Трио Прёт | Priot Trio"
+[4]: https://priot.ru/priot-ensemble "Ансамбль Прёт | Priot Ensemble"
+[5]: http://www.priot.ru/
+[6]: http://fancymusic.ru/artists/priot-ensemble/ "Ансамбль Прёт | Priot Ensemble - Настоящее | Present Continuous"
+[7]: http://dzierzynskibitz.livejournal.com/
+[8]: http://fancymusic.ru/zhivie-lyudi-dvizhenie/ "Live People Ensemble - The Movement"
+[9]: http://fancymusic.ru/goats-notes-fuzzy-wonder/ "Goat'S NoteS - Fuzzy Wonder"
+[10]: http://andrey-bessonov.com/
+[11]: http://andrey-bessonov.ru/
+[12]: http://fancymusic.ru/live-people-quartet-the-new-cities/ "Live People Quartet - The New Cities"
+[13]: http://fancymusic.ru/kruglov-nadzharov-shushkov-talalay-1607/ "1607"
+[14]: https://itun.es/ru/s_JS_ "Татьяна Зыкина - За закрытыми окнами на iTunes"
+[15]: https://itunes.apple.com/ru/album/mistakes/1022188650?l=en "Dima Ustinov - Mistakes on Apple Music"
+[16]: http://www.worldmusicawards.ru/rwma2017 "Seven Eight Band на Russian World Music Awards"
+[17]: http://independentmusicawards.com/16th-independent-music-awards-winners/ "Goat'S NoteS - Cosmic Circus at Independent Music Awards 16"
+[18]: http://youtu.be/_XDw_Sc7wuw
+[19]: http://youtu.be/3A0J5LuhzJ8
+[20]: http://www.youtube.com/playlist?list=PL5C7DD0C1A6DB29E2
+[21]: http://vk.com/priot
+[22]: http://twitter.com/talalife
+[23]: https://plus.google.com/114239285265459594526/about
+[24]: http://facebook.com/talalife
+[25]: http://priot.ru/
+[26]: http://fancymusic.ru/category/arists/livepeople/ "Live People at Fancymusic"
+[27]: http://violinjazz.ru/
+[28]: http://bogusevich.ru/ru/new_trio.html
+[29]: http://goatsnotes.com/
+[30]: http://lampaladino.ru/
+[31]: http://www.novytwist.com/
+[32]: https://soundcloud.com/nadzharov/a-nadzharov-p-talalay-euphoria
+[33]: https://plus.google.com/photos/114239285265459594526/albums/5854572253131008145?authkey=CPLA8ZLb6tXIkgE
