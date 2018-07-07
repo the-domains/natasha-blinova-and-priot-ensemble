@@ -1,7 +1,7 @@
 ---
 title: Пётр Талалай | Piotr Talalay
-datePublished: '2018-07-05T23:10:44.106Z'
-dateModified: '2018-07-05T23:10:40.314Z'
+datePublished: '2018-07-07T12:44:21.310Z'
+dateModified: '2018-07-07T12:44:16.272Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,9 +12,9 @@ description: >-
   Музыкальном Колледже Эстрадно-Джазового Искусства у педагогов Стотланда И.Б,
   Ковалевского М.И и Мелёхина В.П.
 via: {}
+sourcePath: _posts/2018-07-02-piotr-talalay.md
 starred: false
 datePublishedOriginal: '2018-07-02T18:16:50.034Z'
-sourcePath: _posts/2018-07-02-piotr-talalay.md
 url: piotr-talalay/index.html
 _type: Article
 _context: 'http://schema.org'
