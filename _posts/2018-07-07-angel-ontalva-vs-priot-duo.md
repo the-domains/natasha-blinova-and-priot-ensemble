@@ -1,6 +1,7 @@
 ---
 title: Angel Ontalva VS Priot Duo
-dateModified: '2018-07-07T12:44:16.272Z'
+datePublished: '2018-07-07T12:48:32.259Z'
+dateModified: '2018-07-07T12:45:58.393Z'
 publisher: {}
 author: []
 inFeed: true
@@ -15,10 +16,9 @@ description: >-
   утверждающим, что ему нигде более не встречались музыканты столь высокого
   уровня, владеющие искусством импровизации, как в России...
 via: {}
-datePublished: '2018-07-07T12:44:21.313Z'
-sourcePath: _posts/2018-07-07-angel-ontalva-vs-priot-duo.md
 starred: false
 datePublishedOriginal: '2018-07-07T12:36:50.053Z'
+sourcePath: _posts/2018-07-07-angel-ontalva-vs-priot-duo.md
 url: angel-ontalva-vs-priot-duo/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -91,13 +91,13 @@ _October Equus,_ испанский арт-роковый проект Анхе�
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FxYgCQVMibvk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxYgCQVMibvk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxYgCQVMibvk%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSsD_a0k0wf8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSsD_a0k0wf8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSsD_a0k0wf8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsA8oCk5_fi4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsA8oCk5_fi4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsA8oCk5_fi4%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FX-48d5dfaqs%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX-48d5dfaqs&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FX-48d5dfaqs%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FREgsCP-7cyY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DREgsCP-7cyY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FREgsCP-7cyY%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-## ****
 
 _Текст: [Пётр Талалай][3] | [@talalife][4]_
 
