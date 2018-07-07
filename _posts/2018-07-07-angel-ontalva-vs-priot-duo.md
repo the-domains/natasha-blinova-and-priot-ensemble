@@ -1,6 +1,6 @@
 ---
 title: Angel Ontalva VS Priot Duo
-dateModified: '2018-07-07T12:36:10.976Z'
+dateModified: '2018-07-07T12:44:16.272Z'
 publisher: {}
 author: []
 inFeed: true
@@ -15,10 +15,10 @@ description: >-
   утверждающим, что ему нигде более не встречались музыканты столь высокого
   уровня, владеющие искусством импровизации, как в России...
 via: {}
-datePublished: '2018-07-07T12:36:50.053Z'
+datePublished: '2018-07-07T12:44:21.313Z'
+sourcePath: _posts/2018-07-07-angel-ontalva-vs-priot-duo.md
 starred: false
 datePublishedOriginal: '2018-07-07T12:36:50.053Z'
-sourcePath: _posts/2018-07-07-angel-ontalva-vs-priot-duo.md
 url: angel-ontalva-vs-priot-duo/index.html
 _type: Article
 _context: 'http://schema.org'
