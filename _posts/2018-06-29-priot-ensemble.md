@@ -1,7 +1,7 @@
 ---
 title: Ансамбль Прёт | Priot Ensemble
-datePublished: '2018-07-07T12:44:21.309Z'
-dateModified: '2018-07-07T12:44:16.272Z'
+datePublished: '2018-07-07T13:47:53.249Z'
+dateModified: '2018-07-07T13:47:37.216Z'
 publisher: {}
 author:
   - name: 'Фото: Александра Картавая'
@@ -17,9 +17,9 @@ description: >-
   близок к современному европейскому джазу — в его основе живое, динамичное
   сплетение стилей.
 via: {}
-sourcePath: _posts/2018-06-29-priot-ensemble.md
 starred: false
 datePublishedOriginal: '2018-06-29T01:12:13.589Z'
+sourcePath: _posts/2018-06-29-priot-ensemble.md
 url: priot-ensemble/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -82,7 +82,9 @@ _context: 'http://schema.org'
 
 Альбом **Blue Priot**, записанный сразу после этого, выдержан в гораздо более традиционном джазовом ключе - он переносит слушателя во время, когда джаз ещё был музыкой скорее духовного откровения, чем шикарных платьев и дорогих вечеринок.
 
-## Смотрите и слушайте Ансамбль Прёт | Priot Ensemble
+[Слушайте Ансамбль Прёт | Priot Ensemble на странице Музыка][19]
+
+## Смотрите Ансамбль Прёт | Priot Ensemble на YouTube
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a09989cddd6bfac961232154efa38f76264817c.jpg" /><h1>Альбом "Present Continuous" (Priot Ensemble)</h1><p>Альбом · 2013 · Песен: 6. Доступно с подпиской на Apple Music. Бесплатная пробная подписка.</p></article>
 
@@ -113,3 +115,4 @@ _context: 'http://schema.org'
 [16]: http://park-gorkogo.com/greenweek/greenweek_programm/
 [17]: http://youtu.be/PaTHL24DZt0
 [18]: http://youtu.be/xQT2CA5HoU8
+[19]: https://priot.ru/music "Музыка | Music"
