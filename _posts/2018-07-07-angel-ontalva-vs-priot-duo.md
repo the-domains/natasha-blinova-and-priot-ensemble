@@ -1,7 +1,7 @@
 ---
 title: Angel Ontalva VS Priot Duo
-datePublished: '2018-07-07T16:15:33.585Z'
-dateModified: '2018-07-07T16:15:30.915Z'
+datePublished: '2018-07-07T16:16:12.362Z'
+dateModified: '2018-07-07T16:15:40.638Z'
 publisher: {}
 author: []
 inFeed: true
