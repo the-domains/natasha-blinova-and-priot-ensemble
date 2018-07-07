@@ -50,6 +50,9 @@ navigation:
   - name: Пётр Талалай | Piotr Talalay
     id: c0fbbd1e-c657-40d7-a71e-337b772a72cb
     type: content
+  - name: Музыка | Music
+    id: f77d13b5-50b2-4a47-b56b-0d4028bcb08f
+    type: content
   - name: Фото | Photos
     id: 283fc778-778b-4b1d-9adc-4c6914ebb300
     type: content
@@ -58,9 +61,6 @@ navigation:
     type: content
   - name: Контакты | Contacts
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
-    type: content
-  - name: Музыка | Music
-    id: f77d13b5-50b2-4a47-b56b-0d4028bcb08f
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
