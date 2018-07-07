@@ -1,7 +1,7 @@
 ---
 title: Наташа Блинова | Natasha Blinova
-datePublished: '2018-07-07T12:44:21.312Z'
-dateModified: '2018-07-07T12:44:16.272Z'
+datePublished: '2018-07-07T13:44:40.318Z'
+dateModified: '2018-07-07T13:44:33.126Z'
 publisher: {}
 author: []
 inFeed: true
@@ -17,9 +17,9 @@ description: >-
   году альбоме Настоящее (англоязычный вариант названия - Present Continuous) на
   лейбле FANCYMUSIC
 via: {}
-sourcePath: _posts/2018-07-02-natasha-blinova.md
 starred: false
 datePublishedOriginal: '2018-07-02T22:35:15.513Z'
+sourcePath: _posts/2018-07-02-natasha-blinova.md
 url: natasha-blinova/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -170,6 +170,8 @@ _**2017** Международные дни джаза в Архангельск
 **Марта** и **Алиса Талалай** - дипломанты конкурса _Рояль в джазе_, номинация «Параллельно с джазом» (2017)
 ![Фото: Александр Стернин](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d53a7344-b823-40be-9aca-c43dde50e7fb.jpg)
 
+[Слушайте ][8]**[Наташу Блинову и Ансамбль Прёт][8]**[на странице ][8]_[Музыка][8]_
+
 ## Смотрите и слушайте Наташу Блинову
 
 _Легенда_, специально приглашённый артист - _Норайр Барсегян _(дудук)
@@ -194,11 +196,11 @@ _I Don't Know How to Love Him_ из рок-оперы _Иисус Христос
 
 ## Наташа Блинова в Интернете
 
-[ВКонтакте][8]
+[ВКонтакте][9]
 
-[Facebook][9]
+[Facebook][10]
 
-[Ансамбль Прёт | Priot Ensemble][10]
+[Ансамбль Прёт | Priot Ensemble][11]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d15fde591759a7b1f45aef0fc4b58a7c327c8712.jpg)
 
 [0]: http://fancymusic.ru/priot-ensemble-present-continuous "Ансамбль Прёт | Priot Ensemble - Настоящее | Present Continuous"
@@ -209,6 +211,7 @@ _I Don't Know How to Love Him_ из рок-оперы _Иисус Христос
 [5]: https://facebook.com/story.php?story_fbid=10211896585637694&id=1462870721 "Нина Матвеенко о Наташе Блиновой"
 [6]: http://jazz.ru/
 [7]: http://priot.ru/
-[8]: http://vk.com/priot1
-[9]: http://facebook.com/jazzvoices
-[10]: http://priot.ru/priot_ensemble "Ансамбль Прёт | Priot Ensemble"
+[8]: https://priot.ru/music "Музыка | Music"
+[9]: http://vk.com/priot1
+[10]: http://facebook.com/jazzvoices
+[11]: http://priot.ru/priot_ensemble "Ансамбль Прёт | Priot Ensemble"
