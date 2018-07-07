@@ -1,7 +1,7 @@
 ---
 title: Angel Ontalva VS Priot Duo
-datePublished: '2018-07-07T12:48:32.259Z'
-dateModified: '2018-07-07T12:45:58.393Z'
+datePublished: '2018-07-07T13:41:01.561Z'
+dateModified: '2018-07-07T13:40:53.598Z'
 publisher: {}
 author: []
 inFeed: true
@@ -81,6 +81,8 @@ _October Equus,_ испанский арт-роковый проект Анхе�
 
 **Пётр Талалай **--- ударные, iOS - электроника
 
+[Слушайте ][3]**[Angel Ontalva VS Priot Duo ][3]**[на странице ][3]_[Музыка][3]_
+
 # Смотрите Angel Ontalva VS Priot Duo на YouTube
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FBmaz8BDIqBY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBmaz8BDIqBY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBmaz8BDIqBY%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
@@ -99,10 +101,11 @@ _October Equus,_ испанский арт-роковый проект Анхе�
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FREgsCP-7cyY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DREgsCP-7cyY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FREgsCP-7cyY%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-_Текст: [Пётр Талалай][3] | [@talalife][4]_
+_Текст: [Пётр Талалай][4] | [@talalife][5]_
 
 [0]: https://priot.ru/priot-ensemble "Ансамбль Прёт | Priot Ensemble"
 [1]: https://priot.ru/priot-duo "Дуэт Прёт | Priot Duo"
 [2]: https://priot.ru/priot-trio "Трио Прёт | Priot Trio"
-[3]: http://talalay.ru/ "Официальный веб-сайт Петра Талалая"
-[4]: https://twitter.com/talalife
+[3]: https://priot.ru/music "Музыка | Music"
+[4]: http://talalay.ru/ "Официальный веб-сайт Петра Талалая"
+[5]: https://twitter.com/talalife
