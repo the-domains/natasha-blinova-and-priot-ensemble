@@ -1,7 +1,7 @@
 ---
 title: Angel Ontalva VS Priot Duo
-datePublished: '2018-07-12T13:37:35.076Z'
-dateModified: '2018-07-12T13:37:20.181Z'
+datePublished: '2018-07-12T13:44:29.338Z'
+dateModified: '2018-07-12T13:44:27.014Z'
 publisher: {}
 author: []
 inFeed: true
@@ -28,7 +28,7 @@ _context: 'http://schema.org'
 
 # Angel Ontalva VS Priot Duo
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkMtOwzAURH8lshR2JE4ailTqVpUorOAf_HbAznWvXUXw9QQHdcVuZnQfR7MfDfKgq4SSEZdzTLu2ldzrSXFsLID1upEQblmrg9DqGEBpdno9vz-f7niIT06P1mXWP9Bi58-0mCKFleABWd1vjJHSmJL-_uN-k5Ow8cM5LnyHIec00Hwxth6oRbjG5h-Ssn47-dh12267Zvmbna8IUdf9yxskCTOpUv7ymhEBqDTez6PKbkdJVQQjA130HzpZ2ElV2linGVl8kgjej5NlZAJy2LdrX4cf7-ZrWg" height="250" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkctOwzAQRX8lshR25NVQpFIXVbSwomLRH7Adv8DJBHtKBF-PSUqVRXf33LGv5rG2yrNWJsELSgxiH1Z5LpiTXcN8pgG0k5mA9uLlsuWyeQwGhqNFJ2lxw9r-4Y8P7GtGO4bz4pu3Hc74yHiY4dM5_t9roZF0-7I_7LYjG2m1QVrdTeXhI0QYJdcCHHiaVgulhFBqyozzMLfAwHX_bgzjrvQtYqgL_FQ6rQvt4dRnVyYdv18i78tyWS4nD3_o_uShl2n1_ApBwECSgN9xB4SDb6S_HWyDZlWQZBSU1EXU59ZJ7J0k47an15REDsKDc7bTlHRANut8usfmF8swjfE" height="200" style=""></iframe>
 
 Это трио создано человеком, которого можно считать лучшим экспортом Испании последних лет в сфере импровизационной музыки (не имеющим никакого отношения к фламенко); обладателем способности переплавлять личные эмоции в музыку (послушайте --- и сможете убедиться в этом сами), уникальным гитаристом, визионером и романтиком, носящим патлы и потёртую кожаную куртку, объездившим с гастролями всю Россию (_MuzEnergo Tour_), более того --- почти весь мир и утверждающим, что ему нигде более не встречались музыканты столь высокого уровня, владеющие искусством импровизации, как в России...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/293ff8981279382cb3dd7be5a0d02e7603eed8c6.jpg)
