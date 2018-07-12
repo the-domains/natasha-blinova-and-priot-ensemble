@@ -62,6 +62,9 @@ navigation:
   - name: Контакты | Contacts
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
     type: content
+  - name: Календарь | Calendar
+    id: 5b51584f-0264-42dd-ba11-bef279b86843
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
