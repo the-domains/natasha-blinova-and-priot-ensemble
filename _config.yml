@@ -5,7 +5,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f8af0af-bd9b-4fce-8864-d6e073abb810.jpg
 layout_spectrum: 0.6198899488088371
 typography_spectrum: 0.8680269939372187
-analytics: {}
+analytics:
+  facebook: ''
+  google: UA-5579038-1
+  twitter: ''
 opengraph:
   type: ''
   appId: ''
