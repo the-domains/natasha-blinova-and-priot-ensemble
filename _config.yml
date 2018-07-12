@@ -29,6 +29,9 @@ author:
 content_rating:
   adult: false
 navigation:
+  - name: Календарь | Calendar
+    id: 5b51584f-0264-42dd-ba11-bef279b86843
+    type: content
   - name: Дуэт Прёт | Priot Duo
     id: e9c4b1fc-d4c4-45f7-9b22-14a1b3912fba
     type: content
@@ -61,9 +64,6 @@ navigation:
     type: content
   - name: Контакты | Contacts
     id: b9fd7a51-53f0-47de-af34-79525bde8cd4
-    type: content
-  - name: Календарь | Calendar
-    id: 5b51584f-0264-42dd-ba11-bef279b86843
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
